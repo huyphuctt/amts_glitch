@@ -1,0 +1,1583 @@
+{
+    "categories": [
+        {
+            "category_id": 31,
+            "industry_id": 1,
+            "keywords": "máy vi tính, phần mềm, tư vấn, Thiết kế, Phát triển, nhà phát triển, Giải pháp, Kiến trúc, CNTT, bảo mật, công nghệ thông tin, Công nghệ, Kỹ thuật viên, mã hóa, chống vi rút, phần mềm độc hại, không gian mạng, dịch vụ, đám mây, dữ liệu, khoa học, phân tích, Mạng xã hội, doanh nghiệp phần mềm, Dữ liệu lớn, lập trình Blockchain, Lập trình IoT, Lập trình AI, Máy học, học sâu, kỹ thuật, Trang web, thiết kế Trò chơi, Ứng dụng quản lý, xây dựng ứng dụng, phần mềm quản lý, Ứng dụng di động, ứng dụng Ios, hệ điều hành Ios, Kỹ thuật số, phương tiện, phần mềm giải trí, trí tuệ nhân tạo, công cụ phần mềm, dự án phần mềm, Internet vạn vật, nâng cao, Quản lý Hệ thống, tăng cường hiệu suất, Thông minh, Cơ sở dữ liệu, DB, mã nguồn, Nextgen, Máy chủ, Phần mềm miễn phí, Phần mềm chia sẻ, chương trình, thương mại điện tử, Tiện ích, Windows, Điều khiển, Kỹ thuật, Lập trình, Môi trường lập trình, mô phỏng, ngôn ngữ lập trình, lập trình Nhúng, nghiên cứu, Máy bay không người lái, lập trình Robot, lập trình Drone, lập trình Flycam",
+            "ng_keywords": null
+        },
+        {
+            "category_id": 15,
+            "industry_id": 2,
+            "keywords": "仕事, 求職者, 求人サイト, 人事, 履歴書, 幹部職, 雇用, 作品, ワーキング, 新しい仕事, 検索ジョブ, 仕事探し, ITジョブ, の仕事, トップ企業, 雇用機会, 職業, 命題, 職種, 雇用者, 雇う, 募集, 仕事を探す, キャリア",
+            "ng_keywords": null
+        },
+        {
+            "category_id": 22,
+            "industry_id": 1,
+            "keywords": "研究開発, アウトソーシング, テクノロジー, ソフトウェア, コンサルティング, 設計, 開発, 開発者, ソリューション, ウェブ, ウェブサイト, ゲーム, アプリ, アプリケーション, 管理, モバイルアプリ, アンドロイド, イオス, デジタル, メディア, エンターテイメント, レスポンシブ, 研究, フリーランス, ドローン, ロボット工学, プラットフォーム, フレームワーク, ライブラリ, セキュリティ, インターネット, 情報技術, 技術, 技術者, 暗号化, アンチウイルス, マルウェア, サイバー, サービス, クラウド, データ, 科学, 分析, ソーシャル, Unity開発, エンタープライズ, ビッグデータ, ブロックチェーン, IoT開発, AI開発, 機械学習, ディープラーニング, エンジニアリング, Android開発, エンターテインメント, saas開発, ツール, プロジェクト, モノのインターネット, プロセス, 顧客, 高度, 流通, システム, 実行, リモート, 操作, パフォーマンス, スマート, データベース, ソース, コード, サーバー, エンドポイント, フリーウェア, シェアウェア, プログラム, 商用, ユーティリティ, コントロール, 科学者, リーディング, テクニカル, プログラミング, 可視化, イノベーション, 世界規模, 環境, シミュレーション, ダイナミック, クロスプラットフォーム, メンテナンス, ラボ, システムの受託開発, システム開発, ソフトウェア開発, 業務システム, IT企業, オープンソース, 販売管理, 顧客管理, 営業案件管理, 受発注管理, 購買管理, 進捗管理, ワークフロー, クラウドシステム, 働くDB, 楽楽販売",
+            "ng_keywords": null
+        },
+        {
+            "category_id": 23,
+            "industry_id": 1,
+            "keywords": "Web開発, ウェブサイト, Wordpress開発, ECサイト, EC開発, EC-CUBE開発, Magento開発, Eコマース, eコマース, Shopify開発, WooCommerce開発, BigCommerce開発, C-Cubeマーチャント, オンライン, インターネット, ストア, ランディングページ, ソーシャル, コンテンツ, デザイン, メディア, VPS, ホスティング, サーバー, ドメイン, PHP, . ネット, html開発, css開発, javascript開発, データベース, フルスタック, 開発, プラグイン, クリエイティブ, マーケティング, ロゴ, 広告, デジタル, レスポンシブ, 情報, テクノロジー, サービス, フリーランサー, SEOサービス, 検索エンジン最適化, ラボ, 分析, ソリューション, デモグラフィック, フレームワーク, CMS, 管理, 会社, プロフィール, カート, 支払い, テンプレート, グラフィック, フリーランス, ローカルビジネス, デザイナー, 有料広告, WEBサイト",
+            "ng_keywords": null
+        },
+        {
+            "category_id": 24,
+            "industry_id": 1,
+            "keywords": "ソフトウェア, コンサルティング, 開発, ソリューション, アーキテクチャ, 情報, テクノロジー, エンタープライズ, 科学, 分析, サース, プロジェクト, プロセス, サービス, システム, 実行, リモート, 操作, パフォーマンス, 科学者, リーディング, テクニカル, プログラミング, 視覚化, イノベーション, 世界中, 環境, シミュレーション, プラットフォーム, フレームワーク, ライブラリ, 最先端, 人工知能, 迅速な開発, システム開発",
+            "ng_keywords": null
+        },
+        {
+            "category_id": 25,
+            "industry_id": 1,
+            "keywords": "ゲーム, アプリ, アプリケーション, モバイルアプリ, Android開発, iOS開発, スマート, シミュレーション, 動的, 埋め込み, 応答性, ツールキット, ビルド, 最先端",
+            "ng_keywords": null
+        },
+        {
+            "category_id": 26,
+            "industry_id": 1,
+            "keywords": "UI開発, UX開発, UIX開発, デザイン, 3dcg開発, モデリング, Web開発, 建築家, サービス, 描画, スタジオ, クリエイティブ, メディア, インタラクティブ, アニメーション, シーン, ゲーム, アート, アーティスト, デザイナー, CAD開発, グラフィック, ビジュアル, ビデオ, 素材, 広告, ロゴ, 写真, コミック, 戦略, アクティベーション, アートワーク, ガイドライン, マーケティング, 印刷, InDesignのデザイン, Photoshopのデザイン, Illustratorのデザイン, Blenderアニメーション, Maya アニメーション, 3DS Maxアニメーション, パッケージ, 展示, ブランディング, 社説, モーション, タイプ, タイポグラフィ, ウェブサイト, アプリのデザイン, アートディレクション, アイデンティティ, ポスター, 落書き, 映画, イラスト, インターフェース, イノベーション, レスポンシブ, レイアウト, カード, パンフレット, チラシ, ポストカード, バナー, リッチメディア",
+            "ng_keywords": null
+        },
+        {
+            "category_id": 27,
+            "industry_id": 1,
+            "keywords": "Mr開発, Xr開発, SR開発, Vr/Ar開発, Vr/Ar/Mr開発, VR/AR/MR, Unity開発, Virtual Reality, Augmented Reality, Augmented Virtual Reality, Mixed Reality, Substitutional Reality, VR×AI開発, 拡張現実, 仮想現実, 複合現実, デジタル変換, デジタル, ホログラム, 360写真, 360ビデオ, パノラマ, VRツアー, VRトレーニング, VR教育, テクノロジー, 大学, オクルス, インタラクション, インタラクティブ, インタラクティブ仮想, インタラクティブマップ, Google Cardboard開発, htc vive開発, gear vr開発, インタラクションデザイン, ビジュアル, 魔法の飛躍, vizio開発, hololens開発, hololen開発, ビデオキャプチャ, CGI開発, CG開発, スタジオ, ヘッドセット, Daydream開発, MiVR開発, Web AR開発, Webベースの拡張現実, WebXR, WebXR開発, ARCore, ARCore開発, ARKit, ARKit開発, Vuforia開発, OpenCV開発, 顔認識API, 顔認識, ARショッピング, Gemino AR開発, GuruVR開発, VRCHEL開発, VR撮影, 3Dインテリア, シミュレーション, バーチャルコンテンツ制作, Metaverse, Dibital assets, NFT",
+            "ng_keywords": null
+        },
+        {
+            "category_id": 28,
+            "industry_id": 1,
+            "keywords": "コンピューター, ビデオ, モバイル, ゲーム, コンシューマーインターネット, インターネット, 情報技術, 映画, メディア, 映画制作, 映画配給, エンターテイメント, クロスプラットフォーム, プラットフォーム, Unity開発, ゲームプレイ, プログラミング, アプリ, スマートフォン, iphone開発, ios開発, android開発, xbox開発, 360開発, プレイステーション, アート, デザイン, スチーム, ソフトウェア, 革新的, デジタル, 配布, 最先端, ソーシャルゲーム, オンラインゲーム, モバイルゲーム, 無料ゲーム, ロールプレイング, MMO開発, カジュアル, マルチプラットフォーム, 環境, 出版, 開発, 無料プレイ, 戦略ゲーム, スタジオ, ゲーム開発者, ゲームアーティスト, メンテナンス, ラボ",
+            "ng_keywords": null
+        },
+        {
+            "category_id": 29,
+            "industry_id": 1,
+            "keywords": "ビッグデータ, ブロックチェーン, IoT開発, モノのインターネット, AI開発, 機械学習, ディープラーニング, API開発, 顔認識, 最先端, 人工知能, ドローン, ロボット工学, RPA開発, ロボットプロセスオートメーション, エッジコンピューティング, 量子コンピューティング, サイバーセキュリティ, VR/AR開発, augmented reality開発, virtual reality開発, mixed reality開発, MR開発, SR開発, XR開発, 5G開発, ビジネスインテリジェンス, ロボットアプリ開発, ロボブロックス, ロボット, ロボットプログラミング, ヒューマノイド, 人形机器人, humanoid開発, robotics開発, Pepperアプリ開発, Pepper 開発, SoftBank ロボット, 白い ロボット 名前, ペッパーくん 開発, robots開発",
+            "ng_keywords": null
+        },
+        {
+            "category_id": 30,
+            "industry_id": 2,
+            "keywords": "人材紹介, 技術者派遣, トレーニング, サービス, 履歴書, 仕事, 採用, 人事, 機会, 面接, 構築, 専門家, 設計, 企業, コンサルティング, 職歴, CVライティング, 採用担当者, オンボーディング, 従業員, 雇用者, 候補者",
+            "ng_keywords": null
+        },
+        {
+            "category_id": 32,
+            "industry_id": 2,
+            "keywords": "Tuyển dụng, kỹ sư, đào tạo, dịch vụ, sơ yếu lý lịch, cv, tuyển việc, tìm người, nhân sự, HR, HRM, cơ hội, phỏng vấn, phỏng vấn, xây dựng, chuyên gia, công ty, tư vấn, lịch sử công việc, Viết CV, CV, Resume, Recuit, Giới thiệu, Nhân viên, Nhà tuyển dụng, Ứng viên, ứng tuyển, Người tìm việc, web tìm việc, Trang web việc làm, Nhân sự, Sơ yếu lý lịch, Điều hành, Việc làm, Công việc, Đang làm việc, Việc làm mới, Công việc CNTT, Công ty hàng đầu, Cơ hội việc làm, Nghề nghiệp, Lời hứa, Nghề nghiệp, Nhà tuyển dụng, Thuê, Tìm việc, cơ hội nghề nghiệp, phát triển nghề nghiệp, hồ sơ, hệ thống tìm việc, quản lý việc làm, sự nghiệp, săn đầu người, headhunter, Giới thiệu việc làm, môi giới, Cần tuyển",
+            "ng_keywords": null
+        },
+        {
+            "category_id": 33,
+            "industry_id": 3,
+            "keywords": "インポート, トレード, ビジネス, 分布, 製品, 技術, 端末, マシン, ツール, 卸売, 小売, お店, ショップ, オフィス, 代理店, メンテナンス, コマース, 提供, ビジネスオフィス, 解決, 事業所, 製造工場, 工場, 事業領域, ビジネスエリア, 全国サポート, インストール, プロデューサー, 生産技術, パフォーマンス, 信頼性, 使いやすい, 低価格, 適正価格",
+            "ng_keywords": null
+        },
+        {
+            "category_id": 35,
+            "industry_id": 1,
+            "keywords": "3D, デザイン, 3dcg, モデリング, アーキテクト, 描画, スタジオ, クリエイティブ, メディア, メディア, インタラクティブ, アニメーション, シーン, ゲーム, 3Dアーティスト, デザイナー, CAD, グラフィック, 素材, アートワーク, ガイドライン, 印刷, ブレンダー, マヤ, 3DS Max, WebLG, DirectX, モーション, CG制作, 3DCG制作, ビデオ制作, VRコンテンツ制作, Unity3D, コンピューター支援設計, CAD, ビルディングインフォメーションモデリング, BIM, BIM, Revit, Autodesk, Naviswork, Tekla",
+            "ng_keywords": null
+        },
+        {
+            "category_id": 38,
+            "industry_id": 1,
+            "keywords": "SAP　キーワード選定, ERP導入, ERP開発, SAP構築, ABAPエンジニア, ERPパッケージ導入, 基幹業務システム開発, SAP開発, SAP導入, SAPシステム, SAPコンサルティング, SAP導入コンサルティング, SAPマイグレーション, SAP導入支援, SAP Development, SAP ERP, ERP SAP, SAP CO, SAP AA, SAP FI, SAP PM, SAP PP, SAP SD, SAP QM, SAP HR, SAP WM, SAP PS, SAP MM, SAP HANA, S/4HANA, SAP Module, SAPモジュール, 財務会計(FI), 管理(CO), 資産会計(AA), 販売管理(SD), 資材管理(MM), 生産計画(PP), 品質管理(QM), プロジェクトシステム(PS), プラント保全 (PM), 人事(HR), 倉庫管理(WM), Financial Accounting (FI), Controlling (CO), Asset Accounting (AA), Sales &amp; Distribution (SD), Material Management (MM), Production Planning (PP), Quality Management (QM), Project System (PS), Plant Maintenance (PM), Human Resources (HR), Warehouse Management (WM)",
+            "ng_keywords": null
+        },
+        {
+            "category_id": 39,
+            "industry_id": 1,
+            "keywords": "computer, software, consulting, Design pattern, Design api, Development, developer, Solution, Architecture, IT, security software, security system, internet security, information technology, technologists, encryption, antivirus, malware, cyber software, cyber security, development services, Software Development Services, cloud api, cloud computing, cloud Services, science, analytics, Social system, Unity, enterprise, Big data, Blockchain, IoT, AI, Machine learning, deep learning, engineering, Web development, Website, web API, Game development, App development, Appli development, application, Project management, System management, Mobile App, Android development, Ios development, saas, projects, internet of things, system operation, performance, Smart system, databases, outsource, outsourcing, Code, nextgen api, nextgen blockchain, nextgen technologies, serverless, webserver, web server, server network, endpoint, Freeware, Shareware, program, E-commerce, electronic commerce, e commerce industry, utilities, Windows, scientist, leading, technical, programming, visualization, innovation, worldwide, environment, simulation, dynamic, embedded, research, Freelance, drone project, Drone programming, Drone Detection System, Drone api, robotics, platform, framework, library, api, structure, Responsive, toolkit, cutting-edge",
+            "ng_keywords": null
+        },
+        {
+            "category_id": 40,
+            "industry_id": 5,
+            "keywords": "住宅, ハウスメーカ, 不動産, 建築, 注文住宅, 住宅メーカー, 家づくり, 内覧会, 戸建て, 建売, 内見会, 工務店, 住宅会社, 建築会社, 建築業, 工務店管理, 住宅 展示場, 住宅 エコポイント, 住宅情報館, 住宅 地図, 住宅 手当, 住宅 購入, ur 住宅, 不動産投資, 不動産売却, 不動産屋, 不動産ジャパン, 不動産鑑定士, 不動産 査定, 不動産 営業, 不動産ニュース, 不動産 求人, 不動産 管理会社, 不動産 サイト, 不動産 おすすめ, 不動産 ランキング, アヤハ 不動産, 不動産 検索, 不動産 アプリ, suumo 不動産, 不動産 東京, 不動産 販売, 不動産 マンション, 和 不動産, 不動産 起業, 不動産 内見, 不動産 無料査定, 住宅会社 ランキング, 住宅会社 大手, 住宅会社 比較, 住宅会社 選び方",
+            "ng_keywords": null
+        },
+        {
+            "category_id": 41,
+            "industry_id": 1,
+            "keywords": "マイグレーション, 移行, Migration, VB to VB.net, VB6 to VB.net, SAPマイグレーション, VBマイグレーション, VB6.0マイグレーション, VB6 マイグレーション 費用, VB6 VB .NET 移行 問題, Visual Basicマイグレーション, VB Migration, DBマイグレーション, DB Migration, AWS Migration, Database Migration, AWS Server Migration, AWS Database Migration, マイグレーション開発, マイグレーションAWS, マイグレーションasp.net, マイグレーションバージョンアップ, マイグレーションVB, マイグレーション会社, マイグレーションクラウド化, マイグレーション再構築, マイグレーション対策, マイグレーション低リスク, マイグレーションSAP, マイグレーションS/4HANA, マイグレーション会員管理システム, マイグレーション生産製造システム, マイグレーション生産管理, マイグレーション物流システム, マイグレーション診療予約, マイグレーションUNIXシステム, マイグレーションWindowsシステム, マイグレーション会計システム, マイグレーション給付システム, マイグレーションDB, マイグレーションWEB化, マイグレーションシステム移行, マイグレーションMS変換ツール, マイグレーション比較検証テスト, マイグレーションC/Sレガシー, マイグレーションシステム資産可視化, マイグレーションモダナイゼーション, マイグレーション資産棚卸, マイグレーションクラウドマイグレーション, マイグレーションプログラムパターン分析, マイグレーションVisual Basic 6.0, マイグレーションVisual Basic .NET, マイグレーションマイクロソフト製アップグレードウィザード, マイグレーションWindows環境, マイグレーション生産・販売管理パッケージ, マイグレーションステップ数, マイグレーション人事給与システム, マイグレーション二段階のアップグレード, マイグレーションSPREAD, マイグレーションActiveReport, マイグレーションNET Framework, マイグレーションActiveXコンポーネント, マイグレーションデータベース, asp.net, Server マイグレーション, SAP, S/4HANA, 会員管理システム, 生産製造システム, 生産管理, 物流システム, 診療予約, UNIXシステム, Windowsシステム, 会計システム, 給付システム, システム移行, MS変換ツール, 比較検証テスト, C/Sレガシー, システム資産可視化, モダナイゼーション, 資産棚卸, クラウドマイグレーション, プログラムパターン分析, Visual Basic 6.0, Visual Basic .NET, マイクロソフト製アップグレードウィザード, Windows環境, 生産・販売管理パッケージ, ステップ数, 人事給与システム, 二段階のアップグレード, SPREAD, ActiveReport, ActiveXコンポーネント",
+            "ng_keywords": null
+        },
+        {
+            "category_id": 42,
+            "industry_id": 1,
+            "keywords": "マイグレーション, マイグレーション と は, マイグレーション とは, レガシー マイグレーション, システム マイグレーション, モダナイゼーション マイグレーション, マイグレーション 手法, レガシー モダナイゼーション, システム マイグレーション と は, レガシー システム モダナイゼーション, レガシー マイグレーション と は, マイグレーション モダナイゼーション, マイグレーション システム, メイン フレーム マイグレーション, レガシー システム マイグレーション, レガシー マイグレーション 手法, メイン フレーム の マイグレーション, レガシー モダナイゼーション と は, マイグレーション 移行, 電話 診療, 診療 予約 システム, 電話 診察, 診療 予約, クリニック 予約 システム, 診療 予約 2020, クリニック 予約, 順番 予約, 予防 接種 予約 システム, 診察 予約, web 診療, 接種 予約 システム, イーパーク クリニック, 電話 診療 と は, 接種 予約 受付 システム, しみず 医院 予約, 予約 システム クリニック, 待ち 時間 表示, 診察 の 予約, 予約 診療, 順番 予約 と は, web 診察, 電話 で 診察, 眼科 web 予約, 電話 予約 システム, 医院 予約 システム, クリニック 予約 システム 無料, 診察 順番, web 受付 システム, クリニック 待ち 時間, クリニック 電話 対応, 順番 受付, 順番 待ち 予約 と は, 診察 アプリ, 診察 予約 システム, 順番 待ち 予約 システム, クリニック 予約 システム おすすめ, クリニック 順番 待ち システム, epark 眼科, 予約 版, 電話 診察 と は, 診療 予約 2020 ログイン, クリニック 順番 予約, 診療 受付 時間, 順番 待ち システム クリニック, 来院 予約, イーパーク 眼科, 診察 待ち, 診療 アプリ, 診療 受付, マム クリエイト, 眼科 電話 診療, クリニック 順番 予約 システム, 受付 予約 システム, 眼科 予約 システム, 診察 電話, 皮膚 科 電話, 順番 予約 システム, 診療 予約 電話, 診療 予約 と は, 予約 診察, 皮膚 科 web 診療, 診療 の 予約, クリニック 受付 システム, 電話 で の 診察, 予防 接種 予約 システム 無料, 順番 待ち 予約, 皮膚 科 電話 診療, 順番 予約 クリニック, クリニック システム, システム 開発, ソフトウェア 開発, システム テスト, システム 開発 と は, システム 要件 定義, システム 開発 会社, 要件 定義 成果 物, システム 移行, システム テスト と は, ソフトウェア 開発 と は, マイグレ と は, システム 開発 要件 定義, ソフトウェア 開発 工程, 要件 定義 基本 設計, 業務 知識, 開発 会社, プログラム 開発, ソフトウェア 方式 設計, 定義 詳細, ソフトウェア 開発 企業, システム 開発 費用, it 開発, 結合 テスト it, 要件 定義 本, テスト 工程, システム 開発 手法, ipa 品質 評価 指標, 要件 定義 設計, 開発 要件, システム テスト 結合 テスト 違い, システム 開発 テスト, システム 開発 言語, インフラ 開発, 結合 テスト システム テスト 違い, 開発 工数, システム テスト 種類, ソフトウェア 要件 定義, プログラム 開発 工程, システム 移行 計画, 開発 テスト, it テスト 工程, 結合 テスト システム テスト, システム 開発 上流 工程, システム 開発 企業, 業務 システム 開発, モダナイゼーション マイグレーション 違い, 要件 定義 基本 設計 詳細 設計, it 開発 工程, it システム 開発, インフラ 要件 定義, 株式 会社 システム 開発, ツール 開発, 要件 定義 ツール, システム 工程, システム 開発 費用 妥当 性, システム 開発 工程 比率, アプリケーション 開発 と は, アプリケーション システム, マイグレーション ツール, 要件 定義 基本 設計 違い, 設計 工程, システム 検証, オープン 系 システム 開発, システム 開発 本, システム 開発 ウォーター フォール, 業務 システム ui, 開発 要件 定義, 要件 定義 費用, システム 開発 テスト 種類, システム 開発 工数 比率, インフラ テスト, システム テスト とは, マイグレ とは, システム 開発 の 上流 工程 において, システム 開発 進め方, システム 開発 設計, システム 基本 設計, ipa 工程 比率, システム 開発 スクラッチ, システム 要件 定義 と は, システム スクラッチ, 移行 テスト, 業務 システム 開発 言語, it 要件 定義, システム テスト 結合 テスト, 開発 it, スクラッチ 開発 意味, it 結合 テスト, ipa 生産 性, システム プログラマー, 要件 定義 工程, ソフトウェア 開発 費用, システム 開発 テスト 工程, システム 開発 ライフ サイクル, システム 開発 成果 物 一覧, システム 開発 成果 物, システム 要件 定義 成果 物, アプリ 開発 要件 定義, システム 開発 基本 設計, 業務 系 システム 開発, システム 結合 テスト, マイグレーション テスト, システム 構築 費用, システム 要件 定義 進め方, ウォーター フォール 工程, 要件 定義 手法, システム 構築 工程, モダナイゼーション とは, アプリ 要件 定義, インフラ 構築 工程, it テスト と は, システム 開発 費, システム 開発 プロジェクト, システム 移行 と は, ipa 要件 定義 書, 要件 定義 本 おすすめ, 要件 定義 目的, 要件 定義 設計 違い, テスト 工数 比率, 工程 比率, ソフトウェア 開発 とは, ipa 工数 比率, 移行 作業, インフラ 基本 設計, システム 上流 工程, スクラッチ で 開発, テスト 品質, 開発 上流 工程, 要件 定義 システム, 開発 スクラッチ, システム コスト マネジメント, システム 導入 費用, マイグレーション サービス, it アプリ 開発, 情報 システム 開発 の 工程 を, 要件 設計, 定義 テスト, ipa システム 開発, システム 開発 保守, 要件 定義 成果 物 ipa, システム 品質 指標, 仕様 書 it, ウォーター フォール 開発 工程, 要件 定義 書 基本 設計 書 違い, 要件 定義 工数 比率, アプリケーション 方式 設計, 総合 テスト 結合 テスト, システム 開発 事業, システム 開発 要件 定義 進め方, 要件 定義 スケジュール, 要件 定義 it, システム 開発 工程 ipa, 要件 定義 詳細 設計, 開発 工程 it, ipa 品質, システム 開発 it, ソフトウェア 開発 種類, ソフトウェア 方式 設計 と は, 定義 システム, マイグレーション 開発, システム 開発 会社 一覧, ソフトウェア の 開発, 開発 インフラ, アプリ 開発 設計, プログラム 生産 性, システム 開発 ツール, 工数 比率, 要件 定義 開発, システム 開発 技術, システム 導入 工程, 検証 業務, ipa 仕様 書, テスト システム, システム 開発 工程 成果 物, システム 更改 進め方, 開発 と は it, データ 移行 システム, 構築 と は it, 基本 設計 書き方, システム 開発 工数, システム 再 構築 進め方, 要件 定義 工数, システム 構築 要件 定義, it 基本 設計, 上流 システム, システム 開発 ベンダー, プロジェクト 要件 定義, 業務 要件 定義 成果 物, 要件 定義 テスト, システム 開発 品質, プログラム 開発 手法, システム モダナイゼーション, システム 開発 実績, it システム 種類, システム 本, システム 開発 詳細 設計, 基本 設計 要件 定義, スクラッチ システム と は, システム 開発 工程 ウォーター フォール, 要件 定義 システム 設計, システム 開発 要件, システム 開発 発注, it 開発 と は, テスト ベンダー, ipa 開発 工程, 工程 別 工数 比率, it 構築, マイグレーション 作業, 定義 開発, システム 費用, 品質 テスト, 開発 システム, マイグレーション 種類, システム コスト, 品質 検証, 基本 設計 要件 定義 違い, インフラ 要件, 要件 定義 仕様, システム テスト 目的, システム 基盤 テスト, 定義 基本, システム 要件 定義 ソフトウェア 要件 定義 違い, テスト 工程 it, オープン 系 開発 言語, システム 基盤 設計 と は, 設計 要件 定義, 開発 の 進め方, 業務 アプリケーション 開発 言語, 開発 工程 比率, アプリ 開発 要件 定義 書 サンプル, システム 総合 テスト, システム の 開発, 基本 設計 it, システム 開発 規模, ソフトウェア 開発 要件 定義, システム 品質 向上, 基本 設計 インフラ, システム 構築 費, it インフラ 基盤, モダナイゼーション 手法, プロジェクト 規模 定義, システム 制作 会社, 基本 設計 ui, ipa 品質 指標, 要件 定義 ソフトウェア, ソフトウェア 開発 フェーズ, 移行 方式 設計, アプリ 要件 定義 書, ソフトウェア サイクル, 開発 上流, システム 方式 設計 書 サンプル, 総合 テスト システム テスト 違い, 要件 定義 概要 設計, 開発 品質 向上, プログラム 要件 定義, 基本 設計 工程, 品質 it, 業務 システム 言語, システム 設計 開発, 要件 定義 設計 開発 テスト, システム 方式 設計 と は, 開発 ソフトウェア, ソフトウェア 開発 設計, スクラッチ システム 開発, システム 設計 要件 定義, システム 開発 上流, 上流 開発, 業務 用 アプリ 開発, システム 開発 業務, 移行 システム, 要件 定義 参考 書, ipa 指標, システム スクラッチ と は, ソフト 開発 費用, it 品質, システム 開発 の 工程, 定義 実現, 要件 検討, システム 開発 コスト, マイグレーション it, it マイグレーション, システム 開発 生産 性 向上, システム 構築 会社, 開発 検証, ipa 生産 性 指標, ソフトウェア 開発 生産 性, 業務 アプリケーション 開発, 開発 工数 比率, 移行 it, 基本 設計 詳細 設計 インフラ, 要件 定義 書 仕様 書, 設計 基本, 要件 定義 インフラ, 要件 開発, アプリケーション 方式, ソフトウェア 基本 設計, プログラム 工程, ソフトウェア 構築, プロジェクト 要件, ソフトウェア 要件 定義 と は, 要件 定義 システム 開発, 要件 分析 要件 定義, システム テスト 手法, it 総合 テスト, 検証 システム, テスト 要件 定義, システム 移行 データ 移行, it 開発 種類, システム 開発 ソリューション, インフラ 構築 会社, 要件 定義 インプット, it 作業 工程, ipa 工数, システム 開発 参考 書, 基本 設計 成果 物 ipa, アプリ 要件, システム 導入 要件 定義, 生産 性 ソフトウェア, 要件 定義 仕様 検討, ipa システム 再 構築, it 開発 手法, ウォーター フォール 要件 定義, 仕様 要件 定義, ウォーター フォール 設計, 設計 上流 工程, システム 開発 料金, ソフトウェア 開発 工数, 要件 定義 と は it, プログラマー 開発, 基本 設計 システム, 要件 調整, システム 開発 保守 費用, システム 開発 金額, 生産 性 システム 開発, システム 構築 スケジュール, システム 開発 定義, 総合 テスト 結合 テスト 違い, システム 開発 工程 定義, システム 移行 データ 移行 違い, 要件 定義 設計 開発, システム 開発 基本 設計 書, システム 検証 と は, 基本 設計 と は it, 要件 定義 の 目的, プログラム 設計 書 必要 性, システム 開発 工程 工数 比率, 業務 システム 開発 会社, 業務 開発 と は, tis マイグレーション, ui システム 開発, it 詳細 設計, システム ウォーター フォール, システム 開発 知識, ソフトウェア 開発 品質, システム ライフ サイクル 要件 定義, it システム テスト, システム 作成 費用, 業務 系 システム 言語, システム 設計 基本 設計, システム 開発 意味, システム 開発 要件 定義 成果 物, アプリケーション 方式 設計 と は, アプリケーション 要件, システム 開発 比較, システム 移行 計画 書 ipa, 設計 開発 テスト, ui 基本 設計, システム の 要件 定義, 基盤 の 構築, 要件 と 仕様 の 違い, システム 開発 インフラ, 要件 定義 上流 工程, システム 上流, システム テスト 会社, 構築 開発, 検証 業務 と は, ipa 工程 定義, 総合 テスト it, マイグレーション 方式, アプリケーション の 開発, システム 要件 定義 とは, システム 開発 会社 と は, マイグレーション 費用, 要件 定義 品質 指標, スクラッチ 構築, 上流 it, システム 開発 を システム 要件 定義, 開発 設計 工程, 方式 設計 書 基本 設計 書 違い, 業務 システム 構築, マイグレーション 対応, it システム 構築, it 開発 会社, 概要 設計 要件 定義, it 企業 アプリ 開発, システム 結合, ipa 工程, 要件 定義 テスト 要件, システム の 移行, 品質 検証 と は, ソフトウェア 開発 企業 一覧, 設計 成果 物, 基本 設計 本, ポイント システム 開発, 仕様 検討 要件 定義, 事業 内容 システム 開発, 開発 生産 性 向上, 要件 定義 仕様 書 違い, システム 開発 ソフトウェア 開発, システム 開発 サービス, 基本 設計 詳細 設計 成果 物, 設計 テスト, ipa 再 構築, it システム 開発 工程, システム 開発 企業 一覧, 工程 開発, ipa 詳細 設計, インフラ 結合 テスト, テスト 定義, システム 開発 管理 工数 比率 ipa, 業務 システム 開発 と は, 情報 システム 構築, 要件 定義 品質, プログラム 基本 設計, 移行 と は it, 要件 定義 品質 評価, 要件 定義 進め方 ipa, プロジェクト 開発 工程, it 企業 上流 工程, ソフトウェア 品質 ipa, ipa 開発, マイグレーション テスト と は, 開発 フェーズ と は, システム 開発 値段, 定義 設計, システム 開発 重要 な こと, アプリ モダナイゼーション, システム 開発 品質 向上, テスト システム 開発, it ソフトウェア 開発",
+            "ng_keywords": null
+        },
+        {
+            "category_id": 43,
+            "industry_id": 1,
+            "keywords": "クラウドとは, クラウド サービス, クラウド サービス とは, クラウド 化, クラウド システム, クラウド サービス会社, サース と は, saas サービス, saas aws, saas ビジネス, クラウド サービスとは, クラウド アプリ とは, saas 事業, クラウド ソリューション, aws 開発, クラウド 技術, aws 会社, aws 導入, クラウド システム と は, クラウド 事業, クラウド saas, クラウド 開発, saas クラウド, クラウド ビジネス, クラウド 会社, 脱 クラウド, クラウド 導入, クラウド ソフト, ar クラウド, ar サービス, it 製品, it クラウド, saas 一覧, クラウド 企業, クラウド 業界, ar ビジネス, saas 開発, saas サービス と は, saas システム, クラウド ソフトウェア, クラウド 利用, saas 市場, クラウド サービス 企業, saas 日本, クラウド システム 開発, クラウド アプリ 開発, クラウド 特徴, クラウド サービス saas, クラウド 事業 と は, クラウド 製品, web クラウド, saas 日本 企業, saas 連携, 日本 saas, saas 導入, サース とは, aws 導入 企業, aws 利用 企業, saas 会社, saas ソリューション, it 商品, クラウド ソフト と は, saas for saas, aws システム 開発, saas 特徴, saas ソフトウェア, クラウド 技術 と は, アプリ 開発 クラウド, xr ソリューション, システム クラウド, クラウド サービス 開発, クラウド について, saas クラウド サービス, ソフトウェア クラウド, ソフトウェア 市場, 企業 クラウド, クラウド システム 会社, クラウド サービス 会社 日本, クラウド 企業 一覧, クラウド サービス 特徴, クラウド ソフトウェア 違い, クラウド メーカー, クラウド は, クラウド 業務, ソフトウェア クラウド 違い, aws を 使っ た サービス, aws オープン ソース, aws ソフトウェア, 業務 クラウド, aws 実績, aws 構築 サービス, 企業 クラウド サービス, it クラウド と は, クラウド の 特徴, line saas, saas 利用, コア クラウド, saas 領域, web アプリ クラウド, クラウド 開発 と は, クラウド web, クラウド の, クラウド 処理, ソフト クラウド, ビジネス saas, 日本 saas 企業, 日本 クラウド 企業, クラウド 開発 aws, クラウド 導入 企業, クラウド 分類, 開発 クラウド, クラウド 会社 一覧, web システム クラウド, aws 開発 会社, aws 導入 実績, it クラウド サービス, aws 企業 導入, saas web, saas とは クラウド, saas アプリ 開発, aws saas サービス, saas 商品, saas 成長, クラウド 企業 日本, オープン ソース クラウド, aws 採用 企業, クラウド web アプリ, クラウド web サービス, クラウド オープン ソース, クラウド サービス web サービス, クラウド サービス について, クラウド サービス ソフトウェア, クラウド サービス 事業, クラウド サービス 導入, クラウド サービス 業界, クラウド ビジネス 企業, クラウド 事業 企業, クラウド 企業 と は, aws 日本 企業, saas 技術, hp saas, saas line, saas 分類, ar saas, アマゾン ウェブ サービス, amazon クラウド サービス, aws 構築, aws 運用, aws 監視, aws サーバー 構築, サービス クラウド, クラウド 構築, サーバー aws, クラウド サーバー 構築, 運用 サービス, aws 監視 サービス, aws ec2 構築, ec2 構築, aws 運用 監視, ec2 監視, aws サービス 監視, aws web サービス 構築, aws サーバー 構成, aws 運用 サービス, ec2 サーバー 構築, aws サーバー 監視, aws の サービス, aws ec2 監視, aws 構築 運用, aws web サーバー 構築, クラウド サービス 構築, aws ec2 サーバー 構築, クラウド 構築 と は, aws web サービス 構成, サーバー 構築 aws, aws 運用 監視 サービス, aws を 使っ て いる サービス, 監視 aws, ec2 サービス, ec2 運用, aws vps, aws direct connection, microsoft 365 business standard, elasticsearch aws, microsoft 365 business basic, aws cloudfront, aurora amazon, amazonrds, cloudwatch aws, aws lightsail, wordpress aws, lightsail amazon, amazon red shift, cloudfront amazon, microsoft 365 business premium, aws wellarchitected, aws certificatemanager, vision google api, postgresql aurora, amazonsagemaker, cloudwatch amazon, rekognition aws, oracle aws, ssl on aws, amazon gateway api, lambda amazon, mysql aws, gpu aws, aws postgresql, office m365, cloudvision api, aws bi, amazon elasticsearch service, certificatemanager, elastic computing cloud, business premium office 365, amazon elasticsearch, aws savings plans, aws kibana, ec2 wordpress, elasticsearch service, aws server migration service, aws ri, cloudfront ec2, google ocr api, ec2 windows, ami amazon linux, microsoft 365 enterprise, google cloud certification, postgresql rds, office 365 business basic, vps aws, postgresql aws rds, deeplens, gcp gpu, ec2 https, mysql aws rds, amazon aurora postgresql, vm aws, cloudendure migration, direct connect amazon, aws cloudendure, aws lightsail wordpress, amazon cloudwatch logs, aws kibana elasticsearch, aws dwh, ec2 windows server, big query aws, cloudformation yaml, gcp aws azure, ec2 instance savings plans, ec2 ssl, 365 business basic, m365 apps, 365 apps for business, rds ec2, ec2 gpu, aws deeplearning, amazon rds for oracle, m365 business premium, linux ec2, amazon rds postgresql, savings plans aws, lambda ec2, amazon acm, server migration service, sagemaker aws, amazon rds for sql server, microsoft ai azure, ec2 elb, ri aws, ec2 dedicated host, direct connect vpn, aws gpu ec2, apps 365, rds ri, acm ec2, aws fpga, vps on aws, gcp azure aws, lightsail vpc, google vision api ocr, aws vps server, ec2 cpu, amazon lightsail wordpress, office365 saml, vps aws amazon, amazon ec2 vps, amazon rds aurora, aws amazon vps, lightsail ec2, amazon rekognition video, ec2 savings plans, amazon vps server, aws wordpress lightsail, elb ec2, transit gateway vpn, gpu instance aws, aws ssl ec2, office 365 basic, amazon cloud vps, elb ssl, amazon web service ec2, office365 ad, ec2 server, microsoft business premium, ec2 acm, sam cloudformation, dwh aws, amazon ec2 aws, business premium 365, amazon ec2 server, amazon elastic, amazon cloud server, ms 365 apps for business, oracle ec2, cloudformation sam, ms 365 business basic, ec2 lightsail, cloudformation designer, oracle byol, amazon linux ec2, vision api ocr, ms 365 business standard, amazon aws vps, synthetics aws, sagemaker s3, cloudendure aws, nvidia aws, amazon web services cost, machine learning microsoft, google cloud gpu, amazon server cost, aws migration service, amazon aws linux, aws summit tokyo 2019, microsoft 365 os, cloudwatch iam, aws jupyterlab, ec2 db, google amazon cloud, aws cpuutilization, acm ssl, amazon s3 ec2, db aurora, aws elb ssl, aws sam s3, aws deep learning amis, google professional data engineer, amazon vps service, google cloud vision ocr, elastic computing, microsoft 365 ad, acm cloudfront, cloudformation ssm, aws direct, oracle db on aws, ms 365 business premium, amazon sam, cloud vision api ocr, wordpress aws lightsail, microsoft premium, aws wa, aws acm ec2, amazon rekognition api, direct connect dx, ec2 micro, aws oracle byol, google bigquery console, amazon cloud practitioner, google ocr vision, aws rds os, microsoft 365 mdm, ec2 ri, fpga aws, aws certificate manager ec2, rds aurora mysql, google cloud ocr, vps amazon, google cloud vision api ocr, savings plans rds, aws ec2 oracle, ec2 reserved instance, aws windows ami, aws es2, aws lambda sam, microsoft365 basic, rds aurora postgresql, acm private ca, aws sam cloudformation, sam aws lambda, tls aws, google ocr python, microsoft 365 cloud, cloud vision api python, sagemaker ec2, amazon s3 cloudfront, amazon connect direct connect, dx direct connect, amazon t2, byol oracle, ec2 aurora, microsoft 365 apps for, aws sam init, microsoft 365 license, transit gw, google cloud vision python, amazon elasticsearch service kibana, lightsail windows, ssm cloudformation, bigquery amazon, lightsail api, aws rac, rds oracle rac, aws cloudendure migration, amazon ec2 windows, os aws, aws rekognition video, amazon deeplens, amazon ec2 os, microsoft online directory service, gpu instance, cloud lift, aws linux ami, aws glue bigquery, m365 enterprise, gpu gcp, amazon rekognition image, aws v100, aws certificate ssl, ec2 vps, ec2 p3, secrets manager cloudformation, aws p2, lambda parameter store, google cloud vision ai, aws quicksight athena, rds savings plans, amazon windows server, google ai ocr, ec2 vm, google ec2, ec2 host, oracle byol aws, savings plans ec2, aws ri sp, looker aws, amazon sail, sagemaker python sdk example, github sam cli, aws cloudwatch cloudformation, elasticsearch ri, cloudwatch management console, google cloud query, aws sam api, google vision api pdf, ssl aws ec2, ec2 web, basic 365, aws sam version, elasticsearch aws kibana, 365 cloud, amazon spectrum, es kibana, microsoft 365 business basic exchange, rds vcpu, rehost aws, instance ec2, lightsail upgrade instance, amazon vps windows, amazon quicksight dynamodb, dedicated host ec2, sagemaker docs, business standard m365, mysql rds aws, aws k80, google computer vision api, aws sam codeuri, aws windows vps, ec2 free, nvidia deep learning ami, alb certificate, ami instance, aws linux vm, m365 standard, amazon linux server, t2 ec2, amazon s3 sql, amazon elasticsearch kibana, amazon rekognition demo, microsoft office business standard, deep learning ami aws, aws cloud gpu, premium 365, aws lightsail server, ec2 data transfer, office 365 business enterprise, aws colab, mdm microsoft 365, ssl amazon ec2, google cloud platform gpu, ec2 windows instance, redshift ec2, aws ec2 ri, linux ami aws, ec2 small, amazon athena sql, rds mysql aws, lightsail elastic ip, p2 instance, amazon elasticsearch version, amazon deep learning ami, ec2 micro instance, amazon sagemaker jupyter notebook, aws ami windows, aws quicksight dynamodb, aws instance ami, aurora db mysql, aws savings plans rds, bq storage, amazon ec2 ubuntu, m365 basic, amazon cloudendure, ai microsoft azure, aws vps windows, vps amazon ec2, gcp vision ai, microsoft vision ai, amazon data warehouse, amazon web services gpu, dedicated ec2, google vision ai api, ec2 calc, ms azure ai, amazon ec2 wordpress, kibana service, aurora rds mysql, yaml cloudformation, sam cli aws, ec2 with gpu, t2nano, transit gateway vpn attachment, elasticsearch ebs, aws cloudfront certificate, aws t4 gpu, amazon c2, azure t4, ec2 upgrade instance, microsoft 365 business standard exchange, aws 24, aws cli sam, ms 365 enterprise, aws ec2 p3, api gateway certificate, active directory 365, g4 ec2, amazon cloudwatch metrics, server migration connector, aws ec2 f1, google cloud amazon web services, lightsail vps, aws redshift s3, aws server migration, aws sms migration, aws rds byol, e2c aws, aws wc2, amazon lightsail bundle, amazon redshift s3, cloud vision ocr, aws with gpu, amazon elastic cloud, aws ssl certificate manager, amazon gpu instance, aws nvidia gpu, ec2 reserved, google cloud data engineer certification, aws amazon lightsail, aws video rekognition, google data engineer certification, business premium m365, business basic microsoft 365, reserved instance convertible, ms business premium, cloudendure vmware, aws s3 redshift, ms office 365 business premium, dx connect, google api cloud vision, aws ec2 byol, sam template policies, es2 aws, aws itil, google cloud ocr api, amazon rds db, amazon lightsail login, aws ami ec2, aws with wordpress, amazon ec2 windows server, aws gpu server, ocr vision, vps ec2, amazon ex2, ec2 google cloud, amazon ec2 gpu, cloudformation secrets, professional data engineer google, cloud data engineer, amazon gpu cloud, amazon ssl certificate, amazon lightsail vps, professional data engineer google cloud, p3 ec2, google redshift, amazon ec2 p3, p3 aws, aws lightsail vps, ssl acm, amazon server migration service, aws byol oracle, amazon ec2 f1, ec2 f1, ec2 certificate manager, amazon aws lightsail, aws lightsail ec2, amazon f1 instance, amazon ec2 cloud, ec2 g3, aws certificate manager ssl, ec2 elastic, ec2 instance gpu, aws ecs2, p3 instance, amazon es2, ec2 gpu instance, lightsail instance, amazon ssl certificate for ec2, v100 aws, aws e2c, f1 instance, ec2 service, google cloud platform data engineer, aws instance gpu, amazon e2, tesla v100 aws, google professional data engineer exam, amazon e2c, amazon aws gpu, aws tesla v100, ec2 cloud, m365 premium, microsoft office 365 business premium, cloud instance, microsoft 365 business app, apps for business 365, microsoft 365 apps business, business standard microsoft 365, google vision ocr pdf, 365 business apps, google cloud gpu instance, ec2 on aws, amazon aurora db, business basic office 365, rds cloud, s3readpolicy, aws f1 fpga, microsoft office 365 business basic, amazon rds sql, custom vision microsoft, active directory microsoft 365, python google ocr, microsoft 365 business enterprise, microsoft 365 business basic standard, amazon practitioner, amazon sagemaker notebook, aws rehost, amazon redshift sql, aws tensorflow gpu, amazon developer associate, public cloud platform, ms office business premium, microsoft basic 365, google vision python, microsoft office 365 standard, lift shift cloud, business standard microsoft, ssl cloudfront, microsoft office 365 premium, office 365 business apps, azure nvidia t4, cloudfront ssl certificate, google ocr api python, vpn transit gateway, amazon rds login, amazon ec2 https, aws acm certificate, amazon ec2 micro, sagemaker amazon, python google cloud vision, wordpress amazon lightsail, acm manager, ec2 p2, oracle on rds, amazon elastic service, ec2 charges, ec2 transit gateway, amazon personalize api, amazon ec2 ami, lambda blog, elb certificate, amazon ec2 instance, convertible reserved instance, microsoft office business basic, acm ca, cloudformation resolve secretsmanager, amazon cloudwatch dashboard, azure t4 gpu, lightsail aws wordpress, lambda cloud, ec2 on demand, amazon savings plan, lambda service, amazon web services cloud practitioner, google cloud ec2, p2 aws, ec2 deep learning ami, cloudformation systems manager, aws ssl tls, aws ec2 lightsail, microsoft office business premium, google image ocr, convertible ri, aws rds oracle byol, amazon aurora sql, aws secret manager cloudformation, google data warehouse, aws gpu cloud, ec2 metrics, lightsail cpu, amazon transit gateway, amazon tls, amazon ec2 g4, cloudfront certificate, database rds, db amazon, 6r aws, m365 for business, p32xlarge",
+            "ng_keywords": null
+        },
+        {
+            "category_id": 44,
+            "industry_id": 1,
+            "keywords": "web 制作, web 制作 会社, 採用 サイト, ホームページ 制作 大阪, ホームページ 制作 会社, ec サイト 構築, web 開発, ec サイト デザイン, サイト 制作, ホームページ 作成 大阪, ホームページ 制作 東京, ホームページ 作成 会社, ウェブ 制作, ec サイト 制作, web システム 開発, web 制作 会社 東京, システム 開発 会社, ウェブ 制作 会社, 大阪 ホームページ 制作, 企業 サイト, web デザイン 会社, ホームページ 制作 名古屋, ec サイト 作成, 採用 サイト 制作, hp 制作 会社, cms ホームページ, ec システム, 名古屋 ホームページ 制作, cms サイト, アプリ 制作 会社, web サービス 開発, web サイト 制作 会社, サイト 構築, デザイン 制作 会社, 企業 hp, 東京 ホームページ 制作, web サイト 構築, web 会社, 開発 会社, ec 構築, ホームページ 会社, サイト 評価, ホームページ cms, ホームページ 制作 会社 東京, デザイン ホームページ, ウェブ 開発, cms 開発, ec サイト asp, ec asp, ec サイト 制作 会社, ホームページ 作成 業者, ホームページ 作成 名古屋, 企業 サイト デザイン, asp ec サイト, システム 開発 大阪, 会社 ホームページ 制作, 大阪 制作 会社, web デザイナー 会社, asp ec, ec 会社, 企業 ホームページ 作成, 大阪 システム 開発, ec サイト 開発, ホームページ 制作 会社 大阪, サイト 制作 会社, rails ec サイト, web 制作 会社 名古屋, 会社 ホームページ 例, 名古屋 システム 開発, ec 支援, web 構築, ウェブ デザイン 会社, 企業 ホームページ デザイン, イーシー サイト と は, cms サービス, 物販 サイト, ec サイト コンサル, 株式 会社 システム 開発, 制作 会社 大阪, 採用 サイト 作成, コーポレート サイト 構成, 会社 ホームページ デザイン, web デザイン 制作 会社, ウェブ サイト 構築, ec 制作, システム 開発 名古屋, it ホームページ, デザイン 会社 ホームページ, 会社 デザイン, 制作 会社 東京, web システム デザイン, ホームページ 作成 会社 大阪, ec サイト サービス, web 事業, web システム 構築, 渋谷 web, web 開発 企業, ec ソリューション, ec サイト cms, web システム 開発 会社, システム 開発 東京, web デザイナー 企業, ウェブ サイト 制作 会社, ec サイト コンサルティング, web サイト コンテンツ, cms 会社, ホームページ 作成 企業, web トップ ページ デザイン, 採用 ホームページ 制作, ホームページ 制作 営業, 名古屋 制作 会社, ec サイト 構成, 渋谷 ホームページ 制作, web 開発 会社, ホームページ デザイン 会社, web サービス マネタイズ, ec サイト システム, ec サイト 機能, ec システム と は, ec cms, web 制作 会社 採用, デザイン 会社 一覧, システム 開発 外注, ホームページ 業者, 求人 サイト 構築, ec サイト 運営 会社, 株式 会社 ホームページ ショップ, ホームページ 作成 東京, ec サイト 企業, システム 開発 会社 東京, cms ホームページ 作成, hp 作成 業者, 企業 hp デザイン, ホームページ 制作 外注, web 制作 web 開発, web サイト 企画, 大阪 it 会社, sier web 系 違い, システム 制作, web 開発 web 制作, web サイト 制作 大阪, 大阪 ホームページ 制作 会社, 企業 ホームページ 一覧, デザイン 会社 hp, 大阪 システム, ec サイト ui, 企業 web サイト, ホームページ 作成 cms, コーポレート サイト 作成, 企業 の ホームページ, cms 作成, 採用 サイト 制作 会社, 名古屋 ホームページ 作成, 大阪 デザイン 会社 一覧, ec サイト 言語, web サービス 会社, ec 開発, マイ ページ 作成, コーポレート サイト 制作 会社, ec 制作 会社, ec サイト 会社, システム 開発 アプリ 開発 違い, web アプリ 開発 会社, ホームページ マーケティング, 大阪 システム 会社 一覧, 大阪 ホームページ 作成, 名古屋 web, ホームページ ec サイト, 株式 会社 システム 創造 開発, web サイト 制作 東京, cms 企業, ec サイト 大阪, デザイン hp, 東京 ホームページ 制作 会社, ウェブ 開発 と は, 大阪 システム 会社, ホームページ 作成 おすすめ 会社, web サイト トップ ページ デザイン, ポータル サイト パッケージ, マイ ページ 機能, cms 制作 会社, web サービス 作成, ホームページ 制作 cms, ec サイト web デザイナー, ホームページ 制作 会社 名古屋, ec サイト トップ ページ, web 採用, サイト 運営 会社, 大阪 hp 制作, web サイト cms, ec サイト 構築 会社, ec サイト web デザイン, web 制作 企業, ec サイト 構築 企業, cms ウェブ サイト, ec モール 構築, ec サイト 作る, アプリ 作成 会社, ウェブ システム 開発, 制作 実績 web, システム 開発 会社 一覧, アピリッツ ir, ec サイト 外注, 名古屋 ホームページ 制作 会社, web 活用, ウェブ 制作 会社 東京, 大阪 web, web システム 開発 と は, web サイト 制作 求人, web 制作 会社 と は, ウェブ 会社, サイト 開発, 大阪 ウェブ 制作 会社, アプリ 開発 会社 一覧, ec サイト web サイト 違い, サイト 制作 東京, ec 構築 と は, web システム 会社, 企業 ホームページ 制作, ec サイト ノウハウ, 仙台 システム 会社, 仙台 システム 開発, web サイト 作成 会社, web サービス 開発 会社, ec ページ, web システム 例, web サイト 制作 愛知, web 制作 会社 デザイン, 大阪 システム 開発 会社, ec サイト 構築 と は, ec サイト ホームページ, 名古屋 hp 制作, アプリ 開発 会社 東京, cms サイト 構築, 東京 ホームページ 作成, オンライン ショップ 制作, 制作 会社 デザイン, ec サイト を 作る, ホームページ 制作 業者, ec サイト rails, ec サイト 制作 大阪, 大阪 アプリ 開発, web デザイン ec サイト, hp 制作 東京, マーケティング 会社 一覧, ウェブ 制作 東京, ウェブ サービス 開発, ec サイト の 構築, ec サイト 構築 方法, ec サイト エンジニア, web デザイン 会社 一覧, web サイト 会社, web サービス 業界, web 作成 会社, ec サイト html, ec サイト デザイナー, ec サイト 作成 会社, 自社 web サイト, web 評価, 採用 ホームページ 作成, ホームページ 作成 会社 東京, 大阪 web システム 開発, ruby ec サイト, システム 開発 web 系, web サイト コンサル, 業務 システム web 化, システム 開発 会社 sier, デザイン 会社 web, ec サイト 企画, ec サイト 運営 会社 一覧, web サイト 企業, サイト 構築 と は, web 制作 会社 実績, ホームページ 制作 会社 求人, web ページ 制作 会社, 採用 サイト 制作 東京, ec サイト 作成 無料, ホームページ 作成 営業, it 採用 サイト, システム 開発 デザイン, 東京 hp 制作, システム 会社 一覧, web 制作 会社 ホームページ, 事業 内容 ホームページ, hp 制作 会社 東京, web 大阪, web 制作 会社 パートナー, cms ホームページ 制作, 名古屋 ウェブ 制作, web 事業 会社 一覧, 企業 web, システム 制作 会社, ec 運営 会社, web デザイナー ec サイト, 販売 ホームページ 作成, ホームページ 制作 採用 サイト, web アプリケーション システム, ホームページ 制作 企業, 制作 会社 ホームページ, asp パッケージ, サイト cms, 大阪 ec サイト, ec サイト 目的, 大阪 ウェブ 制作, ec システム 構築, ec サイト 支援, オンライン システム 構築, 会社 web サイト, ec システム 開発, ec 作成, システム 会社 大阪, ec 導入, アプリ 開発 東京, システム 構築 会社, 開発 外注, ruby 会社, ec サイト 制作 東京, web システム 開発 大阪, ウェブ サイト 運用, ec サイト asp とは, ec サイト 制作 会社 東京, web サービス 構築, web 制作 会社 サイト, 名古屋 ウェブ 制作 会社, ウェブ サイト 作成 会社, サイト の 運営, ux サイト, ec サイト ベンダー, 株式 会社 ウェブ サイト, ec 外注, web デザイン コーポレート, web システム 開発 企業, ec サイト 導入, web 制作 と web 開発, ウェブ サイト 開発, web 構築 と は, ec サイト 業者, ec 支援 企業, 制作 会社 hp, 物販 ホームページ 作成, 東京 アプリ 開発, ブラウザ ゲーム 会社, サービス 作り, ec 大阪, システム 会社 東京, 会社 web, ホームページ 作成 会社 おすすめ, e コマース サイト 作成, cms 開発 と は, web 制作 コンサル, web サービス を 作る に は, ゲーム 会社 サイト, コーポレート サイト 構築, asp ホームページ, web サイト 構築 会社, ec サイト 作成 ソフト, ec サイト 構築 asp, ruby on rails ec サイト, saas web サイト, システム 開発 web, cms ウェブ, web サイト 制作 と は, ec ux, it 会社 ホームページ, ec サイト 作り たい, ウェブ ソリューション, 渋谷 システム 開発, web サイト 制作 企業, web アプリ 外注, web 制作 会社 サービス, it サイト デザイン, web サイト 保守 運用, web サイト システム, web デザイナー アプリ 開発, web サービス 外注, ui システム 開発, web サービス 作り たい, 大阪 web システム, web サイト 制作 会社 大阪, サイト 会社, ec サイト マイ ページ, 渋谷 システム 会社, アプリ 開発 コンサル, it ホームページ デザイン, ec サイト を 作る に は, ゲーム 会社 hp, コーポレート 会社, web 制作 会社 hp, ホームページ 作成 販売, web サイト 運営 会社, コーポレート サイト ec サイト, サイト 要件, ec システム とは, コーポレート ホームページ, web アプリ 会社, web 株式 会社, 制作 会社 サイト, ec サイト サイト, システム 業者, web サイト の 構築, cms web サイト, 大阪 web 開発, web サイト 制作 名古屋, web デザイン ec, web サービス 作る, 制作 会社 web デザイン, 制作 会社 名古屋, ui ux サイト, ウェブ サイト cms, ec サイト 構築 システム, ゲーム 会社 ホームページ, 採用 hp 作成, ウェブ 構築, 大阪 ec, ec サイト と web サイト の 違い, ウェブ 制作 会社 大阪, ec サイト を 作り たい, web サイト クラウド, 物販 サイト 作成, ec サイト の, システム 開発 業者, ec サイト 構築 おすすめ, アプリ 開発 web 開発, ec サイト 構築 支援, ec サイト asp おすすめ, ec サイト 制作 名古屋, ec サイト システム 開発, ec サイト 構築 大阪, web サイト ec サイト 違い, web ec サイト, ec サイト 開発 会社, it 開発 会社, メディア サイト 制作, システム 開発 アプリ, アプリ 開発 会社 大阪, web アプリ サービス, ec 支援 会社, ruby システム 開発, システム 開発 会社 大阪, ec サイト ux, web アプリ 構築, サイト 作成 会社, it 会社 大阪, システム 開発 企業 一覧, ec サイト 構築 言語, 会社 ウェブ サイト, ec 機能 一覧, web デザイナー 会社 一覧, ゲーム web 制作, rails ec, システム 会社 ホームページ, アプリ システム 開発, 求人 サイト システム, システム 開発 会社 と は, ウェブ サイト 会社, ec サイト 開発 言語, ec サイト 解析, web システム 開発 外注, 企業 ec サイト, マーケティング ホームページ, web 制作 会社 とは, サイト の 構築, サイト ux, 業務 システム web, 企業 web デザイン, web システム 開発 東京, web 制作 システム, ec サイト ui ux, ec 网站, ec サイト 大 規模, アピリッツ 会社, ネット ショップ パッケージ, ホームページ 作成 ec サイト, web サービス を 作り たい, web サイト 制作 会社 東京, モール 構築 システム, ec 構築 会社, ec パッケージ asp, web 作成 大阪, 企業 の hp, ウェブ 開発 会社, システム 構築 大阪",
+            "ng_keywords": null
+        },
+        {
+            "category_id": 45,
+            "industry_id": 1,
+            "keywords": "在庫管理, 販売管理, 在庫管理パッケージ, 販売管理パッケージ, パッケージソフト販売, パッケージ販売, 会員管理システム, 検査支援システム, BAN検, 金融機関向け検査支援システム, 営業倉庫管理システム, セキュリティ関連パッケージ, 原価管理システム, 債券債務管理, 販売仕入れ在庫管理, 製造原価管理, 人事給与システム, 顧客管理システム, 財務会計システム, 仕入れ在庫管理システム, 棚卸し管理システム, 人材派遣業務システム, 業務管理システム, 予約管理システム, ERPパッケージ, 運送管理ソフト, 会計ソフト, 販売管理ソフト, 予約管理ソフト, 勤怠管理ソフト, CRMパッケージ, 経営基盤強化, 業務プロセス強化, 業務プロセス改善, 基幹業務, PC管理, ソフトウェア管理, 教育管理ソフト, 生産実務, 工事管理ソフト, 工事実務, 建設業トータル管理, 建設実務, Web受発注, 汎用CAD, 貸衣装管理, レンタル管理, 外観検査パッケージ, 見積管理, 点灯検査パッケージ, 梱包工程管理, 発注業務管理, 調達計画業務管理, 需要調整管理, 電子決済, ヘルプデスク管理, 不動産管理システム, 賃貸管理システム",
+            "ng_keywords": null
+        },
+        {
+            "category_id": 46,
+            "industry_id": 1,
+            "keywords": "Digital Transformation, IT Solutions, IoT, AI, Digital Twin, AR/VR, VR/AR, HoloLens, Marketing Technology, INTEGRATION PLATFORMS, Marketing Automation, DX Solutions, AI/Cognitive, IoT/Blockchain, AI-OCR, AI Consulting, DX SOLUTIONS, digital automation, digital transformation, strategic solutions, Digital experiences, DX Consulting, innovation, extensive technological, service edge, TRANSFORMING DIGITAL EXPERIENCES, technology landscape, business innovation, digital technologies, digital ecosystem, seamless integration, modernizes",
+            "ng_keywords": null
+        },
+        {
+            "category_id": 47,
+            "industry_id": 3,
+            "keywords": "MRI, 医療, 病院, 産業機械, 医療機器, 整形外科, 医療写真, X線装置, X線検査, X線検査装置, X線照射装置, X線透視装置, 卓上型Ｘ線照射装置, 医療専門学校, 医療機器販売, 産婦人科, 小児科, 医科大学, 医学部, 放射線科, デンタルユニット, 歯科ユニット, X線画像診断機器, 医用画像診断機器, CT装置, 内視鏡装置, 洗浄, 消毒, 滅菌製品, 滅菌製品を提供する, 患者様を守ること, 滅菌関連製品, 洗浄・消毒, 滅菌装置, 再生治療, 世界初, アンチエイジング, 歯科, 内科, 皮膚科, 美容整形, 自家組織フィブリン, 循環器内科, 心臓センター, 心臓血管外科, 脳神経外科, 外科, リハビリテーション科, 消化器内科, 糖尿病内科, 乳腺外科, 漢方内科, 消化器外科, 歯科口腔外科, 泌尿器科, 腎臓内科, 神経内科, 呼吸器内科, 精神科, 麻酔科, 足と傷の外来, 創傷ケアセンター, せぼね外来, 物忘れ外来, リウマチ, 緩和ケア, 発熱外来, 専門医療センター, 透析センター, リハビリテーションセンター, 専門治療, 高気圧酸素治療, デンタルインプラント, SAS治療, 診察, 血圧, 身体計測, 眼科, 眼科検査, 聴力検査, 肺機能検査, 放射線, 超音波検査, 循環器検査, 骨密度検査, 胃内視鏡検査, 尿検査, 血液検査, 便検査, 負荷心電図検査, 眼圧検査, リウマチ検査, 心臓超音波検査, 胸部CT検査, 口腔内検査, X線アンギオグラフィ, Computed Tomography, Magnetic Resonance, Ultrasound, X-Ray, X線, Nuclear Medicine, 核医学診断システム, RF Amplifier Components, Radiation Therapy, Clinical Laboratory, ヘルスケアITソリューション, 分子検査ソリューション, 迅速検査ソリューション, 超音波診断システム, 放射線治療システム, 医療情報ソリューション, Ｘ線回折装置, Ｘ線トポグラフ装置, ⼯業⽤Ｘ線イメージング装置, Ｘ線発生装置, 小角散乱測定装置, 熱分析装置, 残留応力, 歪測定装置, Ｘ線非破壊検査装置, 携帯型ラマン分光計",
+            "ng_keywords": null
+        },
+        {
+            "category_id": 48,
+            "industry_id": 5,
+            "keywords": "dự án bất động sản, Nhà mẫu dự án, Công ty bất động sản, Công ty xây dựng nhà, tập đoàn bất động sản, Tổng công ty xây dựng, Công ty cổ phần xây dựng, Công ty xây lắp, Công ty kinh doanh bất động sản, Công ty Tập đoàn Địa ốc, thương hiệu bất động sản uy tín, Công ty Địa ốc, Công ty BDS, Tập đoàn BĐS, Công ty kinh doanh phát triển nhà, tập đoàn bất động sản quốc tế, Đầu tư và kinh doanh bất động sản, dự án nhà phố, căn hộ penthouse, căn hộ sân vườn cao cấp, hệ sinh thái, Căn hộ Terrace, căn hộ Duplex, Căn hộ SÂN VƯỜN, căn hộ garden apartment, House decor, Thiết kế nhà ở, Phong Cách Sống, Thiết kế nội thất, Trang trí nội thất, Thiết kế kiến trúc, Thiết kế nhà mẫu, Bản vẽ thiết kế nhà, Thiết kế xây dựng, Bất động sản ảo, Tham quan nhà ảo, nội thất nhà bếp, nội thất nhà ở, thiết kế nhà đẹp, Thiết kế biệt thự đẹp, Kiến Trúc Xây Dựng, Tư Vấn Thiết Kế Kiến Trúc, Xây Nhà Trọn Gói, Mẫu Nhà Phố Đẹp, Tổng thầu thi công, Thiết kế và thi công xây dựng, Thiết kế và thi công cơ điện, công trình dân dụng, công trình công nghiệp, nội thất, cảnh quan, Thiết kế quy hoạch, tư vấn & thi công, Xin giấy phép xây dựng, Đấu thầu, công ty nội thất, phong cách thiết kế, xây dựng và trang trí nội thất, nội thất phong thủy, phong thủy, Thiết kế, thi công, Nội thất chung cư, Nội thất nhà phố, Nội thất văn phòng, thiết kế nội thất phòng khách, thiết kế nội thất văn phòng, thiết kế nội thất căn hộ, thiết kế thi công nội thất, phòng khách, phòng bếp, phòng trẻ em, phòng ngủ, văn phòng, chung cư, hồ cá koi, quán cafe, nhà bếp, nhà vệ sinh",
+            "ng_keywords": null
+        },
+        {
+            "category_id": 49,
+            "industry_id": 3,
+            "keywords": "印刷会社, カタログ, パンフレット, 印刷物, Webサイト, 出版, 新聞印刷, 広報物, コミュニケーションデザイン, アートブックス, エキスペリエンスデザイン, グラフィックデザイン, エディトリアルデザイン, インフォグラフィックス, 空間デザイン, 印刷, 同人誌印刷, ラクスル, 印刷通販, ネット印刷, 新聞折込, 印刷 + 配布, ポスティング, DM・ダイレクトメール, 印刷 + 発送, アパレル, ユニフォーム, プリント, 名入れ刺繍, ノベルティ, グッズ制作, ダンボール, 梱包資材, チラシ, フライヤー印刷, 冊子, カタログ印刷, 折りパンフレット印刷, 名刺印刷, シール, ステッカー印刷, ポスター印刷, はがき, ポストカード印刷, 封筒印刷, カード印刷, ファイル, フォルダ印刷, のぼり旗印刷, パネル印刷, 配布, ビジネス資料印刷, 横断幕, 垂れ幕印刷, タペストリー印刷, バナースタンド印刷, うちわ印刷, チケット印刷, 挨拶状印刷, 伝票印刷, 卓上POP印刷, サイン, ディスプレイ印刷, ディスプレイ, 店舗ツール印刷, ポケットティッシュ, カレンダー, 年賀状, 喪中はがき印刷",
+            "ng_keywords": null
+        },
+        {
+            "category_id": 50,
+            "industry_id": 3,
+            "keywords": "セミナー会社, コンサート映像, スポーツ映像, イーラーニング, ライヴ配信, ライブ配信, eラーニング, 配信ライブ, live 配信, 動画販売, ノウハウ動画, VOD配信, ファンクラブ運営会社, ファンクラブサイト, ファンクラブ運営, ファンクラブ運用, ファンクラブ構築, ファンクラブ, ファンクラブ管理, ファンクラブサイト制作, ファンクラブ事業, ファンクラブを作るには, ファンサイト運営会社, 会員サイト, 会員管理, 動画配信, オンライン 学習, 学習管理システム, e training, web ラーニング, セミナー会社 システム, コンサート映像 システム, スポーツ映像 システム, イーラーニング システム, ライヴ配信 システム, ライブ配信 システム, eラーニング システム, 配信ライブ システム, live 配信 システム, 動画販売 システム, ノウハウ動画 システム, VOD配信 システム, ファンクラブ運営会社 システム, ファンクラブサイト システム, ファンクラブ運営 システム, ファンクラブ運用 システム, ファンクラブ構築 システム, ファンクラブ システム, ファンクラブ管理 システム, ファンクラブサイト制作 システム, ファンクラブ事業 システム, ファンクラブを作るには システム, ファンサイト運営会社 システム, 会員サイト システム, 会員管理 システム, 動画配信 システム, オンライン 学習 システム, 学習管理システム システム, e training システム, web ラーニング システム, セミナー会社 開発, コンサート映像 開発, スポーツ映像 開発, イーラーニング 開発, ライヴ配信 開発, ライブ配信 開発, eラーニング 開発, 配信ライブ 開発, live 配信 開発, 動画販売 開発, ノウハウ動画 開発, VOD配信 開発, ファンクラブ運営会社 開発, ファンクラブサイト 開発, ファンクラブ運営 開発, ファンクラブ運用 開発, ファンクラブ構築 開発, ファンクラブ 開発, ファンクラブ管理 開発, ファンクラブサイト制作 開発, ファンクラブ事業 開発, ファンクラブを作るには 開発, ファンサイト運営会社 開発, 会員サイト 開発, 会員管理 開発, 動画配信 開発, オンライン 学習 開発, 学習管理システム 開発, e training 開発, web ラーニング 開発, TV番組制作, 企業動画制作, TV番組制作を, 採用向けPR動画, Webサイト用動画, TV番組, テレビ番組制作, テレビセンター, 広告代理店 CMや番組等の映像制作, YouTube等のライブ中継, 紙媒体等の広告, webサイト等の制作, 広告代理店, 映像制作, 番組制作, CM制作, 広告制作, DTP, デザイン, Web制作, ドローン撮影, LIVE配信, ニコニコ生放送, ライブ配信サポート, 動画配信サポート, オンライン研修サポート, Webシステム開発, オンライン研修システム, 動セミナー, 講演会サポート, 会社説明会サポート, 株主総会サポート, 動画配信システムを提供します, インターネット配信が得意な映像制作会社, 映像制作会社が運営するWebサイトです, 低価格な映像制作, 企業紹介のVPや販促DVD, リクルート用ビデオやデジタルサイネージなどを制作します, 音楽配信サービス, MP3音源",
+            "ng_keywords": null
+        },
+        {
+            "category_id": 51,
+            "industry_id": 3,
+            "keywords": "不動産プロジェクト, プロジェクトモデルハウス, 不動産会社, 住宅建設会社, 建設会社, 建設株式会社, 商社, 不動産事業, 不動産グループ会社, 一流不動産ブランド, 不動産グループ, 住宅開発会社, 国際不動産公社, 投資用不動産投資および事業, タウンハウスプロジェクト, ペントハウスアパート, ラグジュアリーガーデンアパート, テラスアパート, デュプレックスアパート, ガーデンアパート, 家の装飾, デザインハウスデザイン, インテリアデザイン, インテリア装飾, 建築デザイン, モデルホームデザイン, ホームデザイン図面, 建設設計, バーチャル不動産, バーチャルホームツアー, インテリアキッチン家具, 家のインテリア, 美しい家のデザイン, 美しいヴィラのデザイン, 建設建築, 建築設計コンサルタント, 住宅建設パッケージ, 美しいタウンハウスモデル, 設計および建設, M&Eの設計および建設, 土木申請, 工務, 企画設計, コンサルティング・施工, 建設業許可申請, 家具会社, デザインスタイル, 建築・内装, 風水インテリア, マンションインテリア, タウンハウスインテリア, オフィス家具, リビングルームのインテリアデザイン, オフィスインテリアデザイン, アパートのインテリアデザイン",
+            "ng_keywords": null
+        }
+    ],    
+    "contact_url": [
+        "contact",
+        "Contact",
+        "contacts",
+        "contact.html",
+        "contact.htm",
+        "contact.aspx",
+        "contact.asp",
+        "contact.page",
+        "contact-me",
+        "contact.php",
+        "contactus.php",
+        "contact/index.htm",
+        "contact/index.html",
+        "#contact",
+        "contact-us",
+        "contact-us/",
+        "contact-us.html",
+        "contact-us.htm",
+        "contact-us.php",
+        "contact-us.aspx",
+        "contact-us.asp",
+        "contact-us/index.html",
+        "contact_us",
+        "contact_us/",
+        "contact_us.html",
+        "contact_us.htm",
+        "contact_us.aspx",
+        "contact_us.asp",
+        "contact_us.page",
+        "contact_us.php",
+        "contact_us/index.html",
+        "contactus",
+        "ContactUs",
+        "contactus/",
+        "contactus.html",
+        "contactus.htm",
+        "contactus/index.html",
+        "contact-information",
+        "contact/contact_form/",
+        "contact-form",
+        "contact-form/",
+        "contact-form.html",
+        "contact-form.htm",
+        "contact-form/index.html",
+        "contact_form",
+        "contact_form/",
+        "contact_form.html",
+        "contact_form.htm",
+        "contact_form/index.html",
+        "お問合わせ",
+        "お問合わせ/",
+        "お問合わせ.html",
+        "お問合わせ.htm",
+        "お問い合わせ",
+        "お問い合わせ/",
+        "お問い合わせ.html",
+        "お問い合わせ.htm",
+        "%e3%81%8a%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b/",
+        "%e3%81%8a%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b",
+        "inquiry",
+        "inquiry/",
+        "inquiry.htm",
+        "inquiry.html",
+        "#inquiry",
+        "inquiry/index.htm",
+        "inquiry/index.html",
+        "inquire",
+        "inquire.html",
+        "inquire/",
+        "forms/contact_product/",
+        "contact_forms",
+        "signal_infoForm/",
+        "lien-he",
+        "lien-he/",
+        "lien-he.html",
+        "lien-he.htm",
+        "lien-he/index.html",
+        "#lien-he",
+        "lien_he",
+        "lien_he/",
+        "lien_he.html",
+        "lien_he.htm",
+        "lien_he/index.html",
+        "#lien_he",
+        "lienhe",
+        "lienhe/",
+        "lienhe.html",
+        "lienhe.htm",
+        "inq",
+        "inq/",
+        "inq.html",
+        "inq.htm",
+        "inq/index.html",
+        "iqr",
+        "iqr/",
+        "iqr.html",
+        "iqr.htm",
+        "iqr/index.html",
+        "email-form",
+        "email-form/",
+        "email-form.html",
+        "email-form.htm",
+        "email-form/index.html",
+        "email-us",
+        "email-us/",
+        "email-us.html",
+        "email-us.htm",
+        "email-us/index.html",
+        "email_us",
+        "email_us.html",
+        "email_us.htm",
+        "email_us/index.html",
+        "mailus",
+        "mailus/",
+        "mailus.html",
+        "mailus.htm",
+        "mailus/index.html",
+        "about-contact.aspx",
+        "contact-request",
+        "contact_request/",
+        "contact_request.htm",
+        "contact_request.html",
+        "contact-inquiry",
+        "contact_inquiry/",
+        "contact_inquiry.htm",
+        "contact_inquiry.html",
+        "contact/inquiry/",
+        "contact/inquiry",
+        "contact-inquiry-form",
+        "inquiry-form",
+        "inquiryform/",
+        "contact-us/general-inquiry.html",
+        "about-us/contact-us/general-enquiries",
+        "make-an-enquiry",
+        "make-an-enquiry/",
+        "get-in-touch",
+        "get-in-touch/",
+        "contact-ma",
+        "=req",
+        "toiawase",
+        "toiawase/",
+        "toiawase.htm",
+        "toiawase.html",
+        "#form",
+        "#form/",
+        "form",
+        "form/",
+        "mail/",
+        "mail/index.html",
+        "questions.htm",
+        "home_index.php",
+        "enquiry",
+        "enquiry.html",
+        "enquiry.php",
+        "enquiry/"
+    ],
+    "contact_form": [
+        {
+            "type": "Name",
+            "tag": [
+                "input"
+            ],
+            "class": [
+                "wpcf7-text"
+            ],
+            "id": [
+                "contact_name",
+                "txt_section_name",
+                "txt_name1",
+                "txt_name2"
+            ],
+            "attr": {
+                "name": [
+                    "name",
+                    "contact_name",
+                    "your-name",
+                    "your-fullname",
+                    "username",
+                    "txt_section_name",
+                    "txt_name1",
+                    "txt_name2",
+                    "family_name",
+                    "first_name",
+                    "sur_name",
+                    "担当者名",
+                    "ご担当者名",
+                    "お名前(必須)",
+                    "名前",
+                    "姓",
+                    "お名前",
+                    "氏名(ご担当者名)",
+                    "your-name-kanji",
+                    "form/name",
+                    "belong_name",
+                    "txt_section_name",
+                    "inquirymaster-tanto_name",
+                    "name_staff",
+                    "office-name",
+                    "fullname",
+                    "@name",
+                    "first-name",
+                    "your-name",
+                    "yourname",
+                    "contact_name",
+                    "ContactName",
+                    "c_name",
+                    "cname",
+                    "charactername",
+                    "NAME",
+                    "yname",
+                    "user-name",
+                    "inquiry_name",
+                    "your-fullname",
+                    "your_name",
+                    "NameInput",
+                    "id_inquiryName",
+                    "uname",
+                    "pirate-forms-contact-name",
+                    "MailMessageName",
+                    "customer_name",
+                    "contact01",
+                    "application-name",
+                    "customer",
+                    "data_name",
+                    "inq_name",
+                    "namae",
+                    "groupname",
+                    "qry_name",
+                    "inc-name",
+                    "form_name",
+                    "input__name",
+                    "shop-name",
+                    "input__name",
+                    "_name",
+                    "client_name",
+                    "form-rep",
+                    "register_name",
+                    "formName",
+                    "sender-name",
+                    "inquiry[name]",
+                    "contact[name]",
+                    "text-name",
+                    "namenormal",
+                    "my-name",
+                    "user",
+                    "userName",
+                    "contact_charge",
+                    "p_data[AGENT_NAME]",
+                    "familyname",
+                    "TantoName",
+                    "name_i",
+                    "data[name]",
+                    "indexname",
+                    "name_kan",
+                    "name-kanji"
+                ],
+                "placeholder": [
+                    "お名前",
+                    "入力例：田中太郎"
+                ]
+            },
+            "pattern": [
+                "ご氏名",
+                "お名前（必須）",
+                "ご担当者名"
+            ]
+        },
+        {
+            "type": "Katakana",
+            "tag": [
+                "input"
+            ],
+            "class": [
+                "フリガナ",
+                "name_katakana"
+            ],
+            "id": [
+                "txt_name_kn1",
+                "txt_name_kn2"
+            ],
+            "attr": {
+                "name": [
+                    "フリガナ",
+                    "name_kana",
+                    "family_name_kana",
+                    "first_name_kana",
+                    "last_kana",
+                    "nameKana",
+                    "first_kana"
+                ],
+                "placeholder": [
+                    "フリガナ"
+                ]
+            },
+            "pattern": [
+                "フリガナ"
+            ]
+        },
+        {
+            "type": "Email",
+            "tag": [
+                "input"
+            ],
+            "class": [
+                "wpcf7-email",
+                "wpcf7-validates-as-required",
+                "wpcf7-validates-as-email",
+                "txt_mail_address",
+                "mail01",
+                "txt_email"
+            ],
+            "id": [
+                "email",
+                "Email",
+                "your-email",
+                "txt_mail_address",
+                "mail01",
+                "mail02",
+                "mail1",
+                "mail2",
+                "メールアドレス",
+                "email1",
+                "_field_email",
+                "tmpl-nf-field-email",
+                "IndexMail",
+                "pirate-forms-contact-email",
+                "contact_mail",
+                "remail",
+                "yourEmail",
+                "inquiry_mail",
+                "inquiry_email",
+                "edit-mail",
+                "EmailInput",
+                "email_id",
+                "satori__customer_email",
+                "customer_email",
+                "user-email",
+                "f_item_mail",
+                "cmail",
+                "c_email",
+                "mail_address",
+                "data_email",
+                "form_email",
+                "formemail",
+                "e-mail-input",
+                "form/email",
+                "txt_email",
+                "e_mail",
+                "charge_mailaddress",
+                "qry_email",
+                "f-email",
+                "content-email",
+                "emailfrom",
+                "err_contact_mail1",
+                "form-field-email",
+                "user_email",
+                "confirm_email",
+                "data[Inquiry][email]",
+                "mail_addr",
+                "company-email",
+                "semail",
+                "contact[email]",
+                "mailadd",
+                "inquiry_div_email",
+                "FormMail",
+                "__email",
+                "usermail",
+                "mailAddress",
+                "main_mail",
+                "input-email",
+                "MAIL",
+                "p_data[MAIL]",
+                "exampleInputEmail1",
+                "MailMessageMail"
+            ],
+            "attr": {
+                "name": [
+                    "email",
+                    "company-email",
+                    "MailMessageMail",
+                    "p_data[MAIL]",
+                    "input-email",
+                    "exampleInputEmail1",
+                    "remail",
+                    "MAIL",
+                    "__email",
+                    "main_mail",
+                    "FormMail",
+                    "mailAddress",
+                    "usermail",
+                    "inquiry_div_email",
+                    "form_email",
+                    "myemail",
+                    "contact[email]",
+                    "e-mail-input",
+                    "semail",
+                    "data[Inquiry][email]",
+                    "mail_addr",
+                    "your-email",
+                    "your_email",
+                    "txt_email",
+                    "yourmail",
+                    "your-email_confirm",
+                    "form-field-email",
+                    "mailadd",
+                    "emailAddress",
+                    "mail_address",
+                    "email1",
+                    "e_mail",
+                    "MAILADDR",
+                    "err_contact_mail1",
+                    "メールアドレス",
+                    "user_email",
+                    "メール",
+                    "your-mail",
+                    "emailfrom",
+                    "confirm_email",
+                    "email(必須)",
+                    "mailNo",
+                    "mail",
+                    "c_email",
+                    "remail",
+                    "system_mail",
+                    "edit-mail",
+                    "EmailInput",
+                    "contact_email",
+                    "inquiry_mail",
+                    "inquiry_email",
+                    "customer_email",
+                    "mailadr",
+                    "i_email",
+                    "FROM",
+                    "contact01",
+                    "contact02",
+                    "data_email",
+                    "@mail",
+                    "company_email",
+                    "formemail",
+                    "form/email",
+                    "mailNo",
+                    "inq_mail",
+                    "cmail",
+                    "charge_mailaddress",
+                    "qry_email",
+                    "errormsg_email",
+                    "content-email"
+                ],
+                "placeholder": [
+                    "メールアドレス"
+                ]
+            },
+            "pattern": [
+                "メールアドレス",
+                "Eメールアドレス",
+                "メールアドレス（必須）"
+            ]
+        },
+        {
+            "type": "Inquiry_Type",
+            "tag": [
+                "select"
+            ],
+            "class": [
+                "hasCustomSelect",
+                "inquiry_classification",
+                "inquiry_type",
+                "contact_type",
+                "services_type"
+            ],
+            "id": [
+                "inquiry_classification",
+                "inquiry_type",
+                "contact_type",
+                "services_type"
+            ],
+            "attr": {
+                "name": [
+                    "inquiry_classification",
+                    "inquiry_type",
+                    "contact_type",
+                    "services_type"
+                ],
+                "placeholder": [
+                    "事業連携について",
+                    "サービスについて"
+                ]
+            },
+            "pattern": [
+                "お問い合わせ区分",
+                "ご相談の種類",
+                "お問い合わせのカテゴリ",
+                "お問い合わせの種類（必須）"
+            ]
+        },
+        {
+            "type": "Phone",
+            "tag": [
+                "input"
+            ],
+            "class": [
+                "wpcf7-phone",
+                "phone",
+                "txt_tel1",
+                "txt_tel2",
+                "txt_tel3",
+                "telephone",
+                "mobile",
+                "your_phone",
+                "wpcf7-tel"
+            ],
+            "id": [
+                "phone",
+                "txt_tel1",
+                "txt_tel2",
+                "txt_tel3",
+                "telephone",
+                "mobile",
+                "your_phone"
+            ],
+            "attr": {
+                "name": [
+                    "phone",
+                    "tel",
+                    "busPhone",
+                    "mobilePhone",
+                    "電話番号",
+                    "txt_tel1",
+                    "txt_tel2",
+                    "txt_tel3",
+                    "tel01",
+                    "tel02",
+                    "tel03",
+                    "tel1",
+                    "tel2",
+                    "tel3"
+                ],
+                "placeholder": [
+                    "例　03 XXXX XXXX"
+                ]
+            },
+            "pattern": [
+                "電話番号",
+                "勤務先電話",
+                "携帯電話"
+            ]
+        },
+        {
+            "type": "Company",
+            "tag": [
+                "input"
+            ],
+            "class": [
+                "company",
+                "your-compnay",
+                "txt_company_name"
+            ],
+            "id": [
+                "company",
+                "your-compnay",
+                "txt_company_name"
+            ],
+            "attr": {
+                "name": [
+                    "company",
+                    "company-name",
+                    "organizationname",
+                    "company_name",
+                    "company_1-100",
+                    "会社名",
+                    "txt_company_name"
+                ],
+                "placeholder": [
+                    "会社・団体名",
+                    "所属企業・団体名",
+                    "例）テクバン株式会社"
+                ]
+            },
+            "pattern": [
+                "貴社名",
+                "会社名"
+            ]
+        },
+        {
+            "type": "PostalCode",
+            "tag": [
+                "input"
+            ],
+            "class": [],
+            "id": [],
+            "attr": {
+                "name": [
+                    "postalcode",
+                    "郵便番号",
+                    "zipcode",
+                    "zip",
+                    "zip1",
+                    "zip2",
+                    "state",
+                    "city",
+                    "street",
+                    "building"
+                ],
+                "placeholder": [
+                    "郵便番号"
+                ]
+            },
+            "pattern": [
+                "郵便番号"
+            ]
+        },
+        {
+            "type": "Address",
+            "tag": [
+                "input"
+            ],
+            "class": [],
+            "id": [],
+            "attr": {
+                "name": [
+                    "your-address",
+                    "add",
+                    "address",
+                    "ご住所"
+                ],
+                "placeholder": [
+                    "ご住所"
+                ]
+            },
+            "pattern": [
+                "ご住所"
+            ]
+        },
+        {
+            "type": "Content",
+            "tag": [
+                "textarea"
+            ],
+            "class": [
+                "your-question",
+                "txt_inquiry"
+            ],
+            "id": [
+                "pirate-forms-contact-message",
+                "contact_body",
+                "yourMessage",
+                "message",
+                "your-message",
+                "textarea",
+                "form-textarea-1",
+                "inquiry",
+                "inquiry_comment",
+                "inquiry2",
+                "ContactInquiry",
+                "main-content",
+                "edit-message",
+                "ContentInput",
+                "contents",
+                "question",
+                "mail_body",
+                "txa_memo",
+                "body-inner",
+                "header_content",
+                "detail",
+                "bodycontent",
+                "companyContent",
+                "etcnote",
+                "contact_contents",
+                "Question7",
+                "formContent",
+                "お問い合わせ詳細(必須)",
+                "memo",
+                "txtInquiry",
+                "your-ask",
+                "remarks",
+                "inquiry_item_message",
+                "__description",
+                "inquiry_comments",
+                "subject_text",
+                "input_table_content",
+                "inquiry-contents",
+                "inbound-content",
+                "FormQue",
+                "scomment",
+                "add_inquiry",
+                "cmt",
+                "contact_description",
+                "otoiawaseNaiyo",
+                "your-question",
+                "txt_inquiry",
+                "contact_detail",
+                "content",
+                "your_inquiry",
+                "inquiry_input"
+            ],
+            "attr": {
+                "name": [
+                    "contact_detail",
+                    "comment",
+                    "お問い合わせ詳細",
+                    "お問い合わせ内容(必須)",
+                    "お問い合わせ内容の詳細",
+                    "詳細内容",
+                    "ご質問",
+                    "contents",
+                    "input_table_content",
+                    "ご質問・ご要望",
+                    "inquiry_comments",
+                    "お問い合わせ内容",
+                    "mail_body",
+                    "contact[content]",
+                    "contact_description",
+                    "__description",
+                    "your-ask",
+                    "contact_msg",
+                    "mymessage",
+                    "note",
+                    "add_inquiry",
+                    "subject_text",
+                    "remarks",
+                    "commentCapture",
+                    "contact_remarks",
+                    "inquiry-contents",
+                    "p_data[COMMENT]",
+                    "description",
+                    "refcomment",
+                    "othertext",
+                    "matter",
+                    "cmt",
+                    "memo",
+                    "consult_body",
+                    "ContentInput",
+                    "inquiry_item_message",
+                    "bodycontent",
+                    "header_content",
+                    "detail",
+                    "content3",
+                    "cont",
+                    "your-content",
+                    "main-content",
+                    "your-subject",
+                    "edit-message",
+                    "companyContent",
+                    "mes",
+                    "msg",
+                    "txa_memo",
+                    "naiyo",
+                    "inquiry_comment",
+                    "question",
+                    "ci_form_message",
+                    "contact_body",
+                    "yourMessage",
+                    "c_detail",
+                    "textarea",
+                    "your-textarea",
+                    "text",
+                    "ContactInquiry",
+                    "desc",
+                    "inquiry",
+                    "inquiry2",
+                    "content_01",
+                    "your-question",
+                    "content",
+                    "contactdetail",
+                    "message",
+                    "your-message",
+                    "paragraphText",
+                    "mwform_textarea-476",
+                    "txt_inquiry",
+                    "des",
+                    "other"
+                ],
+                "placeholder": [
+                    "お問い合わせ詳細"
+                ]
+            },
+            "pattern": [
+                "お問い合わせ詳細",
+                "お問い合わせ内容",
+                "お問い合わせ内容（必須）"
+            ]
+        },
+        {
+            "type": "PrivacyAgree",
+            "tag": [
+                "checkbox"
+            ],
+            "class": [
+                "privacy_agree_label",
+                "c-form__privacy-checkbox",
+                "mwform-checkbox-field-text",
+                "cbo_privacy",
+                "form_privacy_box"
+            ],
+            "id": [
+                "checkbox",
+                "chk_privacy_policy1",
+                "cbo_privacy",
+                "form_privacy_box"
+            ],
+            "attr": {
+                "name": [
+                    "同意[]",
+                    "clum singleCheckbox",
+                    "個人情報保護方針[data][]",
+                    "chk_privacy_policy1",
+                    "policy[data][]"
+                ],
+                "placeholder": [
+                    "同意する",
+                    "下記の個人情報の取り扱いに同意"
+                ]
+            },
+            "pattern": [
+                "個人情報の取り扱い に同意する",
+                "個人情報の利用目的に同意します",
+                "下記の個人情報の取り扱いに同意"
+            ]
+        },
+        {
+            "type": "Submit",
+            "tag": [
+                "submit",
+                "input"
+            ],
+            "class": [
+                "wpcf7-submit",
+                "elForm-input_submit",
+                "a-submit",
+                "submit_red",
+                "c_submit",
+                "btn-submit",
+                "form-submit",
+                "webform-submit",
+                ".mktoButton",
+                "c-btn-submit",
+                ".submit",
+                ".consent__btn",
+                "js-validate-form__submit",
+                "contact_submit",
+                ".formBtnSubmit",
+                ".formBtn",
+                ".contactTableSubmit",
+                "c-contact-submit",
+                ".formConfiBu",
+                "search-submit",
+                ".check",
+                "sz_form_submit",
+                "btn-form_submit",
+                "box_submit",
+                ".button_Search",
+                ".btn-submit",
+                ".btn.agree",
+                "area-submit",
+                "c-form__submit-button",
+                "submitConfirm",
+                "confirm_btn",
+                "hideConf",
+                "submit_red",
+                "submit",
+                "submit_btn",
+                "submit_button"
+            ],
+            "id": [
+                "btnContact",
+                "square_submit",
+                "submitButton",
+                "formy_submit",
+                "CheckButton",
+                "Button_OK",
+                "do_confirm",
+                "button_mfp_goconfirm",
+                "contact_detail_btn",
+                "pirate-forms-contact-submit",
+                "c_submit",
+                "btn-submit",
+                "btnInputConfirm",
+                "mauticform_input_form-8_submit",
+                "form-submit",
+                "webform-submit",
+                "commit",
+                "satori__submit_confirm",
+                "mail_submit_button",
+                "send-to-confirm",
+                "submitBtn",
+                "contact_submit_button",
+                "satori__submit_confirm",
+                "inquiryformSubmit-1",
+                "inquiryformSubmit",
+                "contact_submit",
+                "confirm",
+                "sendBtn",
+                "send-confirm",
+                "formsubmit",
+                "search-submit",
+                "check",
+                "confirmation_bt",
+                "sousin",
+                "contents_sub",
+                "formbtn",
+                "accept_policy",
+                "button_mfp_goconfirm",
+                "confirmButton",
+                "submit-button-style",
+                "form_confirm_button",
+                "btn_send",
+                "submit_btn",
+                "submit_button",
+                "form_submit",
+                "submit",
+                "submitConfirm"
+            ],
+            "attr": {
+                "name": [
+                    "submitConfirm",
+                    "submit",
+                    "送信",
+                    "お問合せ内容",
+                    "送信する",
+                    "formsubmit",
+                    "action",
+                    "actChk",
+                    "KAKUNIN",
+                    "check",
+                    "__submit",
+                    "submitBtn",
+                    "_ninja_forms_display_submit",
+                    "btnInputConfirm",
+                    "CheckButton",
+                    "contact_submit",
+                    "confirmButton",
+                    "c_submit",
+                    "send",
+                    "btn-submit",
+                    "form-submit",
+                    "webform-submit",
+                    "commit",
+                    "issubmit",
+                    "wp-submit",
+                    "__submit__",
+                    "send-to-confirm",
+                    "inquiry-submit",
+                    "preview",
+                    "confirm",
+                    "sendBtn",
+                    "send-confirm",
+                    "gform_submit",
+                    "submit1",
+                    "submit-button-style",
+                    "form_confirm_button",
+                    "btn_send",
+                    "submit_btn",
+                    "submit_button",
+                    "form_submit"
+                ],
+                "placeholder": [
+                    "同意して送信",
+                    "Send",
+                    "入力に戻る",
+                    "送信する",
+                    "入力内容を確認する",
+                    "確認する",
+                    "入力内容の確認画面へ",
+                    "同意した上で確認画面へ"
+                ]
+            },
+            "pattern": [
+                "送信",
+                "確認"
+            ]
+        },
+        {
+            "type": "Quiz",
+            "tag": [
+                "span",
+                "label",
+                "input"
+            ],
+            "id": [
+                "btnContact",
+                "square_submit",
+                "confirmButton",
+                "submit-button-style",
+                "form_confirm_button",
+                "btn_send",
+                "submit_btn",
+                "submit_button",
+                "form_submit"
+            ],
+            "attr": {
+                "name": [
+                    "_wpcf7_quiz_answer_quiz-515"
+                ],
+                "placeholder": [
+                    "同意する"
+                ]
+            },
+            "pattern": [
+                "同意する"
+            ]
+        }
+    ],
+    "company_url": [
+        "company",
+        "company/",
+        "company.html",
+        "company.htm",
+        "company.aspx",
+        "company.asp",
+        "company.page",
+        "company.php",
+        "company/index.html",
+        "#company",
+        "about",
+        "about/",
+        "about.html",
+        "about.htm",
+        "about.aspx",
+        "about.asp",
+        "about.page",
+        "about.php",
+        "about/index.html",
+        "profile",
+        "profile/",
+        "profile.html",
+        "profile.htm",
+        "profile.aspx",
+        "profile.asp",
+        "profile.page",
+        "profile.php",
+        "profile/index.html",
+        "about-us",
+        "About-Us",
+        "about-us/",
+        "about-us.html",
+        "about-us.htm",
+        "about-us.aspx",
+        "about-us.asp",
+        "about-us.page",
+        "about-us.php",
+        "about-us/index.html",
+        "#about-us",
+        "#about",
+        "#aboutus",
+        "aboutus",
+        "aboutus/",
+        "aboutus.html",
+        "aboutus.htm",
+        "aboutus.php",
+        "aboutcompany",
+        "aboutcompany/",
+        "aboutcompany.html",
+        "aboutcompany.htm",
+        "company/about",
+        "company/outline.html",
+        "company/en/",
+        "about-our-company",
+        "about-our-company/",
+        "company/overview",
+        "about/company-overview.html",
+        "english/company/outline.html",
+        ".",
+        "company/profile",
+        "company/profile/",
+        "company/profile.htm.",
+        "company/profile.html.",
+        "company/profile/index.html",
+        "company-outline",
+        "company/background.html",
+        "会社",
+        "会社/",
+        "会社案内",
+        "会社案内/",
+        "企業情報",
+        "企業情報/",
+        "会社概要",
+        "会社概要/",
+        "company-profile",
+        "company-profile/",
+        "company-profile.html",
+        "company-profile.htm",
+        "company_profile",
+        "company_profile/",
+        "company_profile.html",
+        "company_profile.htm",
+        "company/message.htm",
+        "company/message.html",
+        "congty",
+        "congty/",
+        "congty.html",
+        "congty.htm",
+        "congty/index.html",
+        "gioithieu",
+        "gioithieu/",
+        "gioithieu.html",
+        "gioithieu.htm",
+        "introduction",
+        "introduction/",
+        "information",
+        "information/",
+        "corporate",
+        "corporate/",
+        "overview",
+        "overview/",
+        "outline",
+        "outline/",
+        "corp",
+        "corp/",
+        "background",
+        "background/",
+        "companyinfo",
+        "companyinfo/",
+        "conpany",
+        "conpany/",
+        "conpany.html",
+        "conpany-profile",
+        "conpany-profile/",
+        "com.htm",
+        "com.html",
+        "info/index.html",
+        "corp-about",
+        "corp-about/",
+        "corp-about.html",
+        "corp.php",
+        "cominfo.html",
+        "abouts.php",
+        "who-we-are",
+        "who-we-are/",
+        "who-we-are.html",
+        "about-"
+    ],
+    "company_info": [
+        {
+            "type": "Company name",
+            "tag": [
+                "div",
+                "label",
+                "dt",
+                "dd"
+            ],
+            "class": [
+                "company-info"
+            ],
+            "id": [],
+            "attr": {
+                "name": [
+                    "会社名",
+                    "社名",
+                    "商号"
+                ],
+                "placeholder": []
+            },
+            "pattern": [
+                "株式会社",
+                "Joint Stock",
+                "株式会社",
+                "Joint Stock",
+                "Inc.",
+                "Ltd.",
+                "Co.,",
+                "会社"
+            ]
+        },
+        {
+            "type": "Office Location",
+            "tag": [
+                "div",
+                "label",
+                "dt",
+                "dd"
+            ],
+            "class": [],
+            "id": [],
+            "attr": {
+                "name": [
+                    "オフィス",
+                    "住所",
+                    "所在地"
+                ],
+                "placeholder": []
+            },
+            "pattern": [
+                "ビル",
+                "本社",
+                "階",
+                "MAP",
+                "〒",
+                "2F",
+                "3F",
+                "4F",
+                "5F",
+                "6F",
+                "7F",
+                "8F",
+                "9F",
+                "Shibuya",
+                "Shibuya-ku",
+                "Tokyo",
+                "東京",
+                "Japan"
+            ]
+        },
+        {
+            "type": "Phone",
+            "tag": [
+                "div",
+                "label",
+                "dt",
+                "dd"
+            ],
+            "class": [],
+            "id": [],
+            "attr": {
+                "name": [
+                    "Tel:",
+                    "Phone",
+                    "Call",
+                    "電話番号",
+                    "電話でのお問い合わせ"
+                ],
+                "placeholder": []
+            },
+            "pattern": [
+                "TEL:",
+                "Tel ",
+                "(代表)"
+            ]
+        },
+        {
+            "type": "Contact email",
+            "tag": [
+                "div",
+                "label",
+                "dt",
+                "dd"
+            ],
+            "class": [],
+            "id": [],
+            "attr": {
+                "name": [
+                    "Eメール",
+                    "メールでのお問い合わせ",
+                    "連絡先"
+                ],
+                "placeholder": []
+            },
+            "pattern": [
+                "@",
+                "Eメール",
+                "連絡先",
+                "メールでのお問い合わせ"
+            ]
+        },
+        {
+            "type": "Established",
+            "tag": [
+                "div",
+                "label",
+                "dt",
+                "dd"
+            ],
+            "class": [],
+            "id": [],
+            "attr": {
+                "name": [
+                    "設立",
+                    "創業年月日",
+                    "設立年月日",
+                    "創業"
+                ],
+                "placeholder": []
+            },
+            "pattern": [
+                "年",
+                "年創業",
+                "設立",
+                "創業年月日",
+                "設立年月日",
+                "創業"
+            ]
+        },
+        {
+            "type": "Director",
+            "tag": [
+                "div",
+                "label",
+                "dt",
+                "dd"
+            ],
+            "class": [],
+            "id": [],
+            "attr": {
+                "name": [
+                    "取締役",
+                    "代表取締役",
+                    "経営陣",
+                    "顧問",
+                    "代表者",
+                    "役員",
+                    "役員構成"
+                ],
+                "placeholder": []
+            },
+            "pattern": [
+                "取締役",
+                "取締役 CTO",
+                "取締役 COO",
+                "取締役会長",
+                "社長",
+                "代表取締役社長 兼 CEO",
+                "代表取締役",
+                "経営陣",
+                "顧問",
+                "代表者",
+                "役員",
+                "役員構成",
+                "監査役"
+            ]
+        },
+        {
+            "type": "Business type",
+            "tag": [
+                "div",
+                "label",
+                "dt",
+                "dd"
+            ],
+            "class": [],
+            "id": [],
+            "attr": {
+                "name": [
+                    "事業内容",
+                    "事業分野"
+                ],
+                "placeholder": []
+            },
+            "pattern": [
+                "開発",
+                "事業",
+                "制作",
+                "設計",
+                "アプリ",
+                "企画",
+                "提供",
+                "創造",
+                "コンサルティング",
+                "構築",
+                "マネージドサービス",
+                "IT戦略コンサルティング",
+                "アウトソーシング",
+                "ERPソリューション",
+                "業務",
+                "サービス事業",
+                "バーチャルコンテンツ制作",
+                "Webサイトのデザイン及び制作",
+                "システム開発支援サービス"
+            ]
+        },
+        {
+            "type": "Employees",
+            "tag": [
+                "div",
+                "label",
+                "dt",
+                "dd"
+            ],
+            "class": [],
+            "id": [],
+            "attr": {
+                "name": [
+                    "従業員数",
+                    "スタッフ数",
+                    "社員数"
+                ],
+                "placeholder": []
+            },
+            "pattern": [
+                "人",
+                "名体制",
+                "国内・海外",
+                "名"
+            ]
+        },
+        {
+            "type": "Capital",
+            "tag": [
+                "div",
+                "label",
+                "dt",
+                "dd"
+            ],
+            "class": [],
+            "id": [],
+            "attr": {
+                "name": [
+                    "資本金",
+                    "資本"
+                ],
+                "placeholder": []
+            },
+            "pattern": [
+                "万円",
+                "円"
+            ]
+        }
+    ],
+    "favicon": [
+        "link[rel=icon]",
+        "link[rel=apple-touch-icon]",
+        "link[rel=shortcut]"
+    ]
+}
